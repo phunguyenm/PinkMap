@@ -14,3 +14,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-07 14:41:41,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1657.2,1588.15,Wednesday,14
 2026-10-07 14:41:41,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1269.8,1226.055,Wednesday,14
 2026-10-07 14:41:41,15,Houston Sports Park,Discovery Green,9.978,1209.2,1191.541,Wednesday,14
+2026-10-07 17:07:42,1,Houston City College,Houston City College West Loop Campus,6.136,1034.0,854.846,Wednesday,17
+2026-10-07 17:07:43,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1591.3,1334.411,Wednesday,17
+2026-10-07 17:07:43,3,Houston City College,Rice University,3.135,863.9,1074.955,Wednesday,17
+2026-10-07 17:07:43,4,Discovery Green,Hermann Park,4.807,936.3,864.824,Wednesday,17
+2026-10-07 17:07:44,5,Discovery Green,University of Houston,3.454,859.5,852.292,Wednesday,17
+2026-10-07 17:07:44,6,Houston City College West Loop Campus,Levy Park,3.011,652.7,640.25,Wednesday,17
+2026-10-07 17:07:44,7,Houston City College West Loop Campus,Hermann Park,5.626,1317.8,1222.931,Wednesday,17
+2026-10-07 17:07:44,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1086.5,1071.999,Wednesday,17
+2026-10-07 17:07:45,9,Memorial Park,Discovery Green,5.76,1169.4,955.909,Wednesday,17
+2026-10-07 17:07:45,10,Rice University,Space Center Houston,31.402,2701.3,2705.821,Wednesday,17
+2026-10-07 17:07:45,11,Central Library,Houston Museum of Natural Science,3.547,954.0,963.439,Wednesday,17
+2026-10-07 17:07:46,12,University of Houston,NRG Arena,6.689,1218.9,1153.951,Wednesday,17
+2026-10-07 17:07:46,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,2250.8,2051.381,Wednesday,17
+2026-10-07 17:07:46,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1836.6,1456.783,Wednesday,17
+2026-10-07 17:07:46,15,Houston Sports Park,Discovery Green,10.262,1652.8,1579.537,Wednesday,17
