@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PinkMap</title>
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.9.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.9.0/mapbox-gl.js"></script>
+<style>
+:root{--navy:#1f2f4d;--rose:#b5707f;--bg:#f7f5f0;--grey:#8a8f98;--line:#dcd9d2}
+*{box-sizing:border-box}
+body{margin:0;height:100vh;display:flex;font-family:system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--navy)}
+#panel{width:350px;padding:18px;overflow-y:auto;border-right:1px solid var(--line)}
+#map{flex:1}
+h1{margin:0 0 4px;font-size:28px}
+h1 .pink{color:var(--rose)}
+.sub{margin:0 0 14px;color:var(--grey);font-size:14px}
+label{display:block;font-size:13px;font-weight:600;margin:12px 0 4px}
+select,button{width:100%;padding:10px;font-size:15px;border-radius:8px;border:1px solid var(--line);background:#fff;color:var(--navy)}
+button{background:var(--navy);color:#fff;border:none;margin-top:16px;cursor:pointer}
+button:hover{background:#2c4166}
+#msg{margin-top:12px;font-size:14px}
+.card{border:1px solid var(--line);background:#fff;border-radius:10px;padding:12px;margin-top:12px;cursor:pointer}
+.card.active{border-color:var(--rose);box-shadow:0 0 0 2px #b5707f33}
+.card b{font-size:20px}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:99px;margin:0 4px 0 0;background:#eceae4}
+.slow{background:#f3d9dd;color:#8a3b4a}
+.fast{background:#d9ebe0;color:#2f6b45}
+.small{font-size:13px;color:var(--grey);margin-top:6px}
+@media(max-width:700px){body{flex-direction:column-reverse}#panel{width:100%;height:50%}#map{height:50%;flex:none}}
+</style>
+</head>
+<body>
+<div id="panel">
+  <h1><span class="pink">Pink</span>Map</h1>
+  <p class="sub">Find the calmer way to drive across Houston.</p>
+  <label for="from">From</label><select id="from"></select>
+  <label for="to">To</label><select id="to"></select>
+  <button id="go">Show routes</button>
+  <div id="msg"></div>
+  <div id="results"></div>
+</div>
+<div id="map"></div>
+
+<script>
+// Your Mapbox PUBLIC token (starts with pk.). Public tokens are meant to be used in web pages.
+mapboxgl.accessToken = "pk.eyJ1IjoicGh1bmd1eWVubTI4NCIsImEiOiJjbXV5Zjk2dGUwMm1kMnlxNmh0Y2syMW1zIn0.X1G-HVr69xpo2OPlSB7KZA";
+
+// [id, name, latitude, longitude] - taken from the team's OpenStreetMap places list
+const PLACES = [[60, "Houston City College", 29.74228, -95.37721], [96, "Houston City College West Loop Campus", 29.72139, -95.45737], [301, "Houston City College Northeast - Northline Campus", 29.83281, -95.37715], [82, "Houston City College Northwest - Spring Branch Campus", 29.78791, -95.5607], [31, "Rice University", 29.71656, -95.40294], [145, "University of Houston", 29.7207, -95.3435], [23, "Discovery Green", 29.75298, -95.35954], [12, "Hermann Park", 29.71486, -95.38889], [26, "Central Library", 29.75943, -95.36998], [128, "Houston Museum of Natural Science", 29.72211, -95.38973], [18, "NRG Arena", 29.68119, -95.4058], [5, "Houston Sports Park", 29.63728, -95.39502], [139, "Space Center Houston", 29.55113, -95.09733], [68, "Memorial Park", 29.76611, -95.44361], [144, "Levy Park", 29.73267, -95.42333], [205, "Emancipation Park", 29.73588, -95.36514], [17, "POST Houston", 29.76614, -95.36454], [15, "Menil Collection", 29.73728, -95.39847], [122, "Children's Museum of Houston", 29.72251, -95.38525], [133, "Holocaust Museum Houston", 29.72512, -95.38564], [192, "The University of Texas Health Science Center", 29.70299, -95.40315], [299, "University of Houston - Clear Lake", 29.57892, -95.09731], [270, "San Jacinto College South Campus", 29.58026, -95.20157], [19, "Eleanor Tinsley Park", 29.76125, -95.37803], [54, "Spotts Park", 29.76496, -95.39509], [11, "Lamar Park", 29.74673, -95.39554], [33, "MacGregor Park", 29.71016, -95.3401], [9, "Herman Brown Park", 29.78507, -95.24673]];
+
+const map = new mapboxgl.Map({
+  container: "map",
+  style: "mapbox://styles/mapbox/light-v11",
+  center: [-95.37, 29.76],
+  zoom: 10
+});
+map.addControl(new mapboxgl.NavigationControl());
+
+const fromSel = document.getElementById("from");
+const toSel = document.getElementById("to");
+PLACES.forEach((p, i) => {
+  fromSel.add(new Option(p[1], i));
+  toSel.add(new Option(p[1], i));
+});
+fromSel.value = 0;
+toSel.value = 1;
+
+let routes = [], delays = [], markers = [], active = 0;
+
+const mins = s => (s / 60).toFixed(1);
+
+function statusOf(delay) {
+  if (delay === null) return { text: "no typical time available", cls: "" };
+  if (delay > 30) return { text: "slower than usual", cls: "slow" };
+  if (delay < -30) return { text: "faster than usual", cls: "fast" };
+  return { text: "about normal", cls: "" };
+}
+
+function clearMap() {
+  routes.forEach((_, i) => {
+    if (map.getLayer("route-" + i)) map.removeLayer("route-" + i);
+    if (map.getSource("route-" + i)) map.removeSource("route-" + i);
+  });
+  markers.forEach(m => m.remove());
+  markers = [];
+}
+
+function paint(i) {
+  routes.forEach((_, j) => {
+    if (!map.getLayer("route-" + j)) return;
+    map.setPaintProperty("route-" + j, "line-color", j === i ? "#b5707f" : "#8a8f98");
+    map.setPaintProperty("route-" + j, "line-width", j === i ? 7 : 4);
+    map.setPaintProperty("route-" + j, "line-opacity", j === i ? 1 : 0.6);
+  });
+  if (map.getLayer("route-" + i)) map.moveLayer("route-" + i);
+  document.querySelectorAll(".card").forEach((c, j) => c.classList.toggle("active", j === i));
+  active = i;
+}
+
+function showCards(fastest, calmest) {
+  const box = document.getElementById("results");
+  box.innerHTML = "";
+  routes.forEach((r, i) => {
+    const st = statusOf(delays[i]);
+    const miles = (r.distance / 1609.344).toFixed(1);
+    const typical = r.duration_typical ? mins(r.duration_typical) + " min" : "n/a";
+    const delayTxt = delays[i] === null ? "" : (delays[i] >= 0 ? "+" : "") + Math.round(delays[i]) + " sec vs usual";
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML =
+      (i === calmest && delays[i] !== null ? '<span class="tag fast">Least congested</span>' : "") +
+      (i === fastest ? '<span class="tag">Fastest now</span>' : "") +
+      '<div style="margin-top:6px"><b>' + mins(r.duration) + " min</b> &middot; " + miles + " mi</div>" +
+      '<div class="small">Usually: ' + typical + " " + (delayTxt ? "(" + delayTxt + ")" : "") + "</div>" +
+      '<div class="small"><span class="tag ' + st.cls + '">' + st.text + "</span></div>";
+    card.onclick = () => paint(i);
+    box.appendChild(card);
+  });
+}
+
+async function showRoutes() {
+  const msg = document.getElementById("msg");
+  const a = PLACES[fromSel.value], b = PLACES[toSel.value];
+  if (a === b) { msg.textContent = "Please pick two different places."; return; }
+  msg.textContent = "Asking Mapbox...";
+  document.getElementById("results").innerHTML = "";
+
+  const url = "https://api.mapbox.com/directions/v5/mapbox/driving-traffic/" +
+    a[3] + "," + a[2] + ";" + b[3] + "," + b[2] +
+    "?alternatives=true&overview=full&geometries=geojson&access_token=" + mapboxgl.accessToken;
+
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    if (!data.routes || data.routes.length === 0) throw new Error(data.message || "No route found");
+
+    clearMap();
+    routes = data.routes;
+    delays = routes.map(r => r.duration_typical ? r.duration - r.duration_typical : null);
+
+    const fastest = 0; // Mapbox lists the fastest route first
+    let calmest = fastest;
+    delays.forEach((d, i) => { if (d !== null && (delays[calmest] === null || d < delays[calmest])) calmest = i; });
+
+    routes.forEach((r, i) => {
+      map.addSource("route-" + i, { type: "geojson", data: { type: "Feature", geometry: r.geometry } });
+      map.addLayer({ id: "route-" + i, type: "line", source: "route-" + i,
+        layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-color": "#8a8f98", "line-width": 4 } });
+    });
+
+    markers.push(new mapboxgl.Marker({ color: "#1f2f4d" }).setLngLat([a[3], a[2]]).setPopup(new mapboxgl.Popup().setText(a[1])).addTo(map));
+    markers.push(new mapboxgl.Marker({ color: "#b5707f" }).setLngLat([b[3], b[2]]).setPopup(new mapboxgl.Popup().setText(b[1])).addTo(map));
+
+    const bounds = new mapboxgl.LngLatBounds();
+    routes.forEach(r => r.geometry.coordinates.forEach(c => bounds.extend(c)));
+    map.fitBounds(bounds, { padding: 60 });
+
+    showCards(fastest, calmest);
+    paint(calmest);
+    msg.textContent = routes.length + " route option" + (routes.length > 1 ? "s" : "") + " found. Click a card to switch.";
+  } catch (err) {
+    msg.textContent = "Something went wrong: " + err.message;
+  }
+}
+
+document.getElementById("go").onclick = () => {
+  if (map.loaded()) showRoutes(); else map.once("load", showRoutes);
+};
+</script>
+</body>
+</html>
