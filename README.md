@@ -31,7 +31,7 @@ The first time you open it, it asks for a free Mapbox public token (make one at 
 4. **Features** we build from that: traffic delay, slower/faster label, hour, day of week, rush hour, and average speed.
 5. **Model:** we compare simple baselines now, and will train a better model to predict traffic delay.
 
-## Help us collect data
+## Collect data
 
 The more runs we have at different times and days, the better our model gets. Rush hour (7-9 AM and 4-6 PM) is the most useful.
 
@@ -42,7 +42,7 @@ The more runs we have at different times and days, the better our model gets. Ru
 5. You should see "Saved 15 new rows".
 6. Rename the csv like `yourname_2026-10-08_evening.csv` and put it in the `data/` folder (**Add file -> Upload files**), or send it to Phu.
 
-## Current status (honest version)
+## Current status
 
 - Working: data collection, the demo app, and the cleaning/baseline notebook.
 - Still small: the dataset is only as big as the runs we have collected so far, so early numbers are a proof of concept, not a final result.
