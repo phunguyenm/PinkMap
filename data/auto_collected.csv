@@ -74,3 +74,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-08 12:11:54,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1411.2,1437.182,Thursday,12
 2026-10-08 12:11:54,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1188.6,1103.784,Thursday,12
 2026-10-08 12:11:55,15,Houston Sports Park,Discovery Green,9.764,1084.1,1008.764,Thursday,12
+2026-10-08 17:54:26,1,Houston City College,Houston City College West Loop Campus,6.136,917.8,789.722,Thursday,17
+2026-10-08 17:54:26,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1360.4,1169.807,Thursday,17
+2026-10-08 17:54:27,3,Houston City College,Rice University,3.135,1055.4,1113.773,Thursday,17
+2026-10-08 17:54:27,4,Discovery Green,Hermann Park,4.807,958.1,889.28,Thursday,17
+2026-10-08 17:54:27,5,Discovery Green,University of Houston,3.454,892.4,864.122,Thursday,17
+2026-10-08 17:54:27,6,Houston City College West Loop Campus,Levy Park,2.871,734.6,605.424,Thursday,17
+2026-10-08 17:54:27,7,Houston City College West Loop Campus,Hermann Park,5.626,1429.8,1235.247,Thursday,17
+2026-10-08 17:54:27,8,Houston City College Northeast - Northline Campus,Discovery Green,7.643,1212.9,1253.252,Thursday,17
+2026-10-08 17:54:28,9,Memorial Park,Discovery Green,5.904,1248.8,982.257,Thursday,17
+2026-10-08 17:54:28,10,Rice University,Space Center Houston,31.402,2594.7,2583.864,Thursday,17
+2026-10-08 17:54:28,11,Central Library,Houston Museum of Natural Science,3.547,1027.0,973.965,Thursday,17
+2026-10-08 17:54:28,12,University of Houston,NRG Arena,6.292,1145.4,1147.89,Thursday,17
+2026-10-08 17:54:28,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.812,2362.1,1898.277,Thursday,17
+2026-10-08 17:54:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1661.8,1331.592,Thursday,17
+2026-10-08 17:54:29,15,Houston Sports Park,Discovery Green,9.762,1437.3,1286.364,Thursday,17
