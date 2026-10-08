@@ -44,3 +44,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-07 19:00:22,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.936,1611.3,1476.363,Wednesday,19
 2026-10-07 19:00:22,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1154.0,1025.131,Wednesday,19
 2026-10-07 19:00:22,15,Houston Sports Park,Discovery Green,9.762,1132.8,986.468,Wednesday,19
+2026-10-08 03:25:33,1,Houston City College,Houston City College West Loop Campus,7.005,632.5,617.7,Thursday,3
+2026-10-08 03:25:33,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,797.4,758.114,Thursday,3
+2026-10-08 03:25:33,3,Houston City College,Rice University,3.135,1006.1,1090.623,Thursday,3
+2026-10-08 03:25:34,4,Discovery Green,Hermann Park,4.807,769.7,759.841,Thursday,3
+2026-10-08 03:25:34,5,Discovery Green,University of Houston,3.256,792.0,788.576,Thursday,3
+2026-10-08 03:25:34,6,Houston City College West Loop Campus,Levy Park,2.871,488.3,500.31,Thursday,3
+2026-10-08 03:25:34,7,Houston City College West Loop Campus,Hermann Park,6.28,842.3,831.413,Thursday,3
+2026-10-08 03:25:35,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,735.3,742.352,Thursday,3
+2026-10-08 03:25:35,9,Memorial Park,Discovery Green,5.904,841.0,839.337,Thursday,3
+2026-10-08 03:25:35,10,Rice University,Space Center Houston,28.13,2126.7,2189.036,Thursday,3
+2026-10-08 03:25:36,11,Central Library,Houston Museum of Natural Science,4.832,618.9,621.468,Thursday,3
+2026-10-08 03:25:36,12,University of Houston,NRG Arena,9.177,901.7,921.726,Thursday,3
+2026-10-08 03:25:36,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1079.2,1102.664,Thursday,3
+2026-10-08 03:25:37,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.685,981.1,992.501,Thursday,3
+2026-10-08 03:25:37,15,Houston Sports Park,Discovery Green,9.762,785.3,795.889,Thursday,3
