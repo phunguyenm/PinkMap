@@ -2,7 +2,7 @@ name: Collect traffic data
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (GitHub uses UTC time)
+    - cron: "7 * * * *"   # every 2 hours (GitHub uses UTC time)
   workflow_dispatch:         # lets you start it by hand with a button
 
 permissions:
