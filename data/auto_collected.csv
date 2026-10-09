@@ -89,3 +89,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-08 17:54:28,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.812,2362.1,1898.277,Thursday,17
 2026-10-08 17:54:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1661.8,1331.592,Thursday,17
 2026-10-08 17:54:29,15,Houston Sports Park,Discovery Green,9.762,1437.3,1286.364,Thursday,17
+2026-10-08 23:36:59,1,Houston City College,Houston City College West Loop Campus,6.136,727.7,649.139,Thursday,23
+2026-10-08 23:37:00,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,734.0,745.679,Thursday,23
+2026-10-08 23:37:00,3,Houston City College,Rice University,3.135,965.3,1023.374,Thursday,23
+2026-10-08 23:37:00,4,Discovery Green,Hermann Park,4.807,746.2,735.318,Thursday,23
+2026-10-08 23:37:00,5,Discovery Green,University of Houston,3.454,701.9,750.121,Thursday,23
+2026-10-08 23:37:00,6,Houston City College West Loop Campus,Levy Park,2.871,470.1,485.732,Thursday,23
+2026-10-08 23:37:00,7,Houston City College West Loop Campus,Hermann Park,6.28,819.9,813.814,Thursday,23
+2026-10-08 23:37:01,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,766.9,787.886,Thursday,23
+2026-10-08 23:37:01,9,Memorial Park,Discovery Green,5.76,825.0,818.186,Thursday,23
+2026-10-08 23:37:01,10,Rice University,Space Center Houston,28.13,2204.4,2255.102,Thursday,23
+2026-10-08 23:37:01,11,Central Library,Houston Museum of Natural Science,4.832,664.4,653.777,Thursday,23
+2026-10-08 23:37:01,12,University of Houston,NRG Arena,9.177,943.3,951.686,Thursday,23
+2026-10-08 23:37:01,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1099.8,1114.097,Thursday,23
+2026-10-08 23:37:02,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.685,1017.4,966.622,Thursday,23
+2026-10-08 23:37:02,15,Houston Sports Park,Discovery Green,9.762,833.3,846.726,Thursday,23
