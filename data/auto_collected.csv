@@ -179,3 +179,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-10 08:34:34,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1172.6,1113.999,Saturday,8
 2026-10-10 08:34:35,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,904.9,898.49,Saturday,8
 2026-10-10 08:34:35,15,Houston Sports Park,Discovery Green,9.762,867.6,822.224,Saturday,8
+2026-10-10 13:29:45,1,Houston City College,Houston City College West Loop Campus,6.136,1177.0,690.872,Saturday,13
+2026-10-10 13:29:45,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,967.6,860.64,Saturday,13
+2026-10-10 13:29:46,3,Houston City College,Rice University,3.135,1084.9,1059.108,Saturday,13
+2026-10-10 13:29:46,4,Discovery Green,Hermann Park,4.807,830.5,788.462,Saturday,13
+2026-10-10 13:29:46,5,Discovery Green,University of Houston,3.454,803.3,761.646,Saturday,13
+2026-10-10 13:29:47,6,Houston City College West Loop Campus,Levy Park,2.871,521.6,545.721,Saturday,13
+2026-10-10 13:29:47,7,Houston City College West Loop Campus,Hermann Park,6.28,1032.5,966.543,Saturday,13
+2026-10-10 13:29:47,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,936.3,872.798,Saturday,13
+2026-10-10 13:29:47,9,Memorial Park,Discovery Green,5.904,996.0,811.733,Saturday,13
+2026-10-10 13:29:48,10,Rice University,Space Center Houston,31.402,2487.5,2485.329,Saturday,13
+2026-10-10 13:29:48,11,Central Library,Houston Museum of Natural Science,3.547,963.1,823.678,Saturday,13
+2026-10-10 13:29:49,12,University of Houston,NRG Arena,9.179,990.0,951.414,Saturday,13
+2026-10-10 13:29:49,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1551.0,1376.418,Saturday,13
+2026-10-10 13:29:49,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1239.3,1115.188,Saturday,13
+2026-10-10 13:29:49,15,Houston Sports Park,Discovery Green,9.762,1142.7,942.162,Saturday,13
