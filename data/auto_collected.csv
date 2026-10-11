@@ -209,3 +209,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-10 17:26:42,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1458.9,1291.475,Saturday,17
 2026-10-10 17:26:42,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1094.6,1035.334,Saturday,17
 2026-10-10 17:26:43,15,Houston Sports Park,Discovery Green,9.764,1058.3,971.445,Saturday,17
+2026-10-10 20:48:37,1,Houston City College,Houston City College West Loop Campus,7.005,1027.0,644.614,Saturday,20
+2026-10-10 20:48:37,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,802.5,813.258,Saturday,20
+2026-10-10 20:48:37,3,Houston City College,Rice University,3.135,918.4,967.546,Saturday,20
+2026-10-10 20:48:37,4,Discovery Green,Hermann Park,4.807,843.3,766.446,Saturday,20
+2026-10-10 20:48:37,5,Discovery Green,University of Houston,3.454,813.1,796.314,Saturday,20
+2026-10-10 20:48:38,6,Houston City College West Loop Campus,Levy Park,3.011,583.6,537.721,Saturday,20
+2026-10-10 20:48:38,7,Houston City College West Loop Campus,Hermann Park,6.28,991.7,858.951,Saturday,20
+2026-10-10 20:48:38,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,904.4,866.399,Saturday,20
+2026-10-10 20:48:38,9,Memorial Park,Discovery Green,5.904,921.1,871.075,Saturday,20
+2026-10-10 20:48:38,10,Rice University,Space Center Houston,28.13,2223.1,2281.167,Saturday,20
+2026-10-10 20:48:39,11,Central Library,Houston Museum of Natural Science,4.832,826.1,710.62,Saturday,20
+2026-10-10 20:48:39,12,University of Houston,NRG Arena,9.179,916.3,924.713,Saturday,20
+2026-10-10 20:48:39,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1328.6,1214.509,Saturday,20
+2026-10-10 20:48:39,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,935.5,927.828,Saturday,20
+2026-10-10 20:48:39,15,Houston Sports Park,Discovery Green,9.762,939.3,893.238,Saturday,20
