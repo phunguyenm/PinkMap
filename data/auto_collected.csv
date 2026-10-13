@@ -359,3 +359,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-13 10:53:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1444.9,1359.935,Tuesday,10
 2026-10-13 10:53:41,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,975.5,1001.288,Tuesday,10
 2026-10-13 10:53:41,15,Houston Sports Park,Discovery Green,9.762,936.4,907.887,Tuesday,10
+2026-10-13 16:11:21,1,Houston City College,Houston City College West Loop Campus,6.136,854.8,895.508,Tuesday,16
+2026-10-13 16:11:21,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1398.5,1358.261,Tuesday,16
+2026-10-13 16:11:21,3,Houston City College,Rice University,3.135,1283.4,1156.783,Tuesday,16
+2026-10-13 16:11:22,4,Discovery Green,Hermann Park,4.807,880.3,881.252,Tuesday,16
+2026-10-13 16:11:22,5,Discovery Green,University of Houston,3.454,860.3,870.584,Tuesday,16
+2026-10-13 16:11:22,6,Houston City College West Loop Campus,Levy Park,3.144,693.0,761.341,Tuesday,16
+2026-10-13 16:11:22,7,Houston City College West Loop Campus,Hermann Park,5.626,1292.8,1325.914,Tuesday,16
+2026-10-13 16:11:22,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1065.4,1050.686,Tuesday,16
+2026-10-13 16:11:22,9,Memorial Park,Discovery Green,5.904,943.1,925.55,Tuesday,16
+2026-10-13 16:11:23,10,Rice University,Space Center Houston,31.402,2678.7,2750.534,Tuesday,16
+2026-10-13 16:11:23,11,Central Library,Houston Museum of Natural Science,4.411,910.8,933.113,Tuesday,16
+2026-10-13 16:11:23,12,University of Houston,NRG Arena,6.292,1151.3,1181.5,Tuesday,16
+2026-10-13 16:11:23,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,1938.6,1947.552,Tuesday,16
+2026-10-13 16:11:23,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1444.3,1502.29,Tuesday,16
+2026-10-13 16:11:24,15,Houston Sports Park,Discovery Green,9.762,1476.0,1522.877,Tuesday,16
