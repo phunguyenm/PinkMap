@@ -434,3 +434,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-14 13:32:12,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1503.8,1459.153,Wednesday,13
 2026-10-14 13:32:12,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1199.0,1167.561,Wednesday,13
 2026-10-14 13:32:13,15,Houston Sports Park,Discovery Green,9.762,1091.8,1025.103,Wednesday,13
+2026-10-14 17:14:56,1,Houston City College,Houston City College West Loop Campus,6.136,1110.6,893.046,Wednesday,17
+2026-10-14 17:14:56,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1601.3,1379.774,Wednesday,17
+2026-10-14 17:14:56,3,Houston City College,Rice University,3.135,1011.2,1104.002,Wednesday,17
+2026-10-14 17:14:56,4,Discovery Green,Hermann Park,4.807,940.0,878.178,Wednesday,17
+2026-10-14 17:14:56,5,Discovery Green,University of Houston,3.454,841.3,868.009,Wednesday,17
+2026-10-14 17:14:56,6,Houston City College West Loop Campus,Levy Park,2.871,706.3,621.834,Wednesday,17
+2026-10-14 17:14:56,7,Houston City College West Loop Campus,Hermann Park,5.626,1354.0,1278.923,Wednesday,17
+2026-10-14 17:14:57,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1161.5,1077.34,Wednesday,17
+2026-10-14 17:14:57,9,Memorial Park,Discovery Green,5.904,1378.0,1000.528,Wednesday,17
+2026-10-14 17:14:57,10,Rice University,Space Center Houston,31.402,2685.1,2718.237,Wednesday,17
+2026-10-14 17:14:57,11,Central Library,Houston Museum of Natural Science,3.692,1095.5,998.169,Wednesday,17
+2026-10-14 17:14:57,12,University of Houston,NRG Arena,9.179,1331.9,1135.576,Wednesday,17
+2026-10-14 17:14:58,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,2298.1,2087.444,Wednesday,17
+2026-10-14 17:14:58,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1769.7,1521.119,Wednesday,17
+2026-10-14 17:14:58,15,Houston Sports Park,Discovery Green,10.262,1695.2,1543.31,Wednesday,17
