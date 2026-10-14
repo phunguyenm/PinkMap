@@ -419,3 +419,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-14 08:38:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1921.4,1636.92,Wednesday,8
 2026-10-14 08:38:40,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1263.8,1097.905,Wednesday,8
 2026-10-14 08:38:40,15,Houston Sports Park,Discovery Green,9.762,1200.5,1000.219,Wednesday,8
+2026-10-14 13:32:10,1,Houston City College,Houston City College West Loop Campus,6.136,729.5,704.095,Wednesday,13
+2026-10-14 13:32:10,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,870.6,929.015,Wednesday,13
+2026-10-14 13:32:10,3,Houston City College,Rice University,3.135,1097.1,1197.8,Wednesday,13
+2026-10-14 13:32:11,4,Discovery Green,Hermann Park,4.807,744.1,762.1,Wednesday,13
+2026-10-14 13:32:11,5,Discovery Green,University of Houston,3.454,754.2,797.688,Wednesday,13
+2026-10-14 13:32:11,6,Houston City College West Loop Campus,Levy Park,2.871,522.1,540.758,Wednesday,13
+2026-10-14 13:32:11,7,Houston City College West Loop Campus,Hermann Park,6.28,959.3,932.565,Wednesday,13
+2026-10-14 13:32:11,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,874.3,896.022,Wednesday,13
+2026-10-14 13:32:11,9,Memorial Park,Discovery Green,5.904,946.3,830.267,Wednesday,13
+2026-10-14 13:32:12,10,Rice University,Space Center Houston,28.129,2498.9,2513.829,Wednesday,13
+2026-10-14 13:32:12,11,Central Library,Houston Museum of Natural Science,4.829,886.2,827.253,Wednesday,13
+2026-10-14 13:32:12,12,University of Houston,NRG Arena,9.179,958.7,983.2,Wednesday,13
+2026-10-14 13:32:12,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1503.8,1459.153,Wednesday,13
+2026-10-14 13:32:12,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1199.0,1167.561,Wednesday,13
+2026-10-14 13:32:13,15,Houston Sports Park,Discovery Green,9.762,1091.8,1025.103,Wednesday,13
