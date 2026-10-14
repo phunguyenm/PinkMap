@@ -389,3 +389,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-13 20:09:38,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1224.8,1213.889,Tuesday,20
 2026-10-13 20:09:38,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1047.1,952.676,Tuesday,20
 2026-10-13 20:09:39,15,Houston Sports Park,Discovery Green,9.762,947.5,877.92,Tuesday,20
+2026-10-14 02:30:13,1,Houston City College,Houston City College West Loop Campus,7.005,636.3,618.211,Wednesday,2
+2026-10-14 02:30:14,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,751.6,765.765,Wednesday,2
+2026-10-14 02:30:14,3,Houston City College,Rice University,3.135,960.1,1037.905,Wednesday,2
+2026-10-14 02:30:14,4,Discovery Green,Hermann Park,4.807,778.0,781.489,Wednesday,2
+2026-10-14 02:30:14,5,Discovery Green,University of Houston,3.454,800.8,803.062,Wednesday,2
+2026-10-14 02:30:14,6,Houston City College West Loop Campus,Levy Park,2.871,471.1,494.044,Wednesday,2
+2026-10-14 02:30:15,7,Houston City College West Loop Campus,Hermann Park,6.28,846.9,830.687,Wednesday,2
+2026-10-14 02:30:15,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,755.0,763.166,Wednesday,2
+2026-10-14 02:30:15,9,Memorial Park,Discovery Green,5.904,842.8,835.773,Wednesday,2
+2026-10-14 02:30:15,10,Rice University,Space Center Houston,28.13,2099.9,2185.873,Wednesday,2
+2026-10-14 02:30:15,11,Central Library,Houston Museum of Natural Science,4.832,610.7,629.407,Wednesday,2
+2026-10-14 02:30:15,12,University of Houston,NRG Arena,9.177,951.0,921.075,Wednesday,2
+2026-10-14 02:30:16,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1103.1,1086.078,Wednesday,2
+2026-10-14 02:30:16,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,882.1,883.875,Wednesday,2
+2026-10-14 02:30:16,15,Houston Sports Park,Discovery Green,9.762,815.7,809.74,Wednesday,2
