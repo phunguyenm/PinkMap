@@ -404,3 +404,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-14 02:30:16,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1103.1,1086.078,Wednesday,2
 2026-10-14 02:30:16,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,882.1,883.875,Wednesday,2
 2026-10-14 02:30:16,15,Houston Sports Park,Discovery Green,9.762,815.7,809.74,Wednesday,2
+2026-10-14 08:38:36,1,Houston City College,Houston City College West Loop Campus,6.136,832.0,762.357,Wednesday,8
+2026-10-14 08:38:37,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,865.2,897.28,Wednesday,8
+2026-10-14 08:38:37,3,Houston City College,Rice University,3.135,1046.2,1076.936,Wednesday,8
+2026-10-14 08:38:37,4,Discovery Green,Hermann Park,4.807,953.1,911.273,Wednesday,8
+2026-10-14 08:38:38,5,Discovery Green,University of Houston,3.454,797.6,869.223,Wednesday,8
+2026-10-14 08:38:38,6,Houston City College West Loop Campus,Levy Park,2.871,588.3,582.629,Wednesday,8
+2026-10-14 08:38:38,7,Houston City College West Loop Campus,Hermann Park,6.28,1045.9,917.036,Wednesday,8
+2026-10-14 08:38:38,8,Houston City College Northeast - Northline Campus,Discovery Green,8.533,1333.0,1222.845,Wednesday,8
+2026-10-14 08:38:38,9,Memorial Park,Discovery Green,5.904,1091.5,891.772,Wednesday,8
+2026-10-14 08:38:39,10,Rice University,Space Center Houston,28.129,2466.8,2382.967,Wednesday,8
+2026-10-14 08:38:39,11,Central Library,Houston Museum of Natural Science,3.57,884.2,916.831,Wednesday,8
+2026-10-14 08:38:39,12,University of Houston,NRG Arena,5.673,1142.0,1163.775,Wednesday,8
+2026-10-14 08:38:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1921.4,1636.92,Wednesday,8
+2026-10-14 08:38:40,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1263.8,1097.905,Wednesday,8
+2026-10-14 08:38:40,15,Houston Sports Park,Discovery Green,9.762,1200.5,1000.219,Wednesday,8
