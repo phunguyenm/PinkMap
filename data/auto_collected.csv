@@ -494,3 +494,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-15 08:21:19,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,2091.3,1718.454,Thursday,8
 2026-10-15 08:21:19,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1227.1,1123.629,Thursday,8
 2026-10-15 08:21:19,15,Houston Sports Park,Discovery Green,9.762,1093.8,1029.092,Thursday,8
+2026-10-15 13:13:39,1,Houston City College,Houston City College West Loop Campus,6.136,731.1,704.173,Thursday,13
+2026-10-15 13:13:39,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1063.8,914.046,Thursday,13
+2026-10-15 13:13:39,3,Houston City College,Rice University,3.135,1151.9,1196.748,Thursday,13
+2026-10-15 13:13:40,4,Discovery Green,Hermann Park,4.807,787.8,762.026,Thursday,13
+2026-10-15 13:13:40,5,Discovery Green,University of Houston,3.45,904.3,835.152,Thursday,13
+2026-10-15 13:13:40,6,Houston City College West Loop Campus,Levy Park,2.871,543.1,545.223,Thursday,13
+2026-10-15 13:13:40,7,Houston City College West Loop Campus,Hermann Park,6.28,967.5,926.197,Thursday,13
+2026-10-15 13:13:41,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,943.3,894.677,Thursday,13
+2026-10-15 13:13:41,9,Memorial Park,Discovery Green,5.76,885.0,840.954,Thursday,13
+2026-10-15 13:13:41,10,Rice University,Space Center Houston,31.402,2499.8,2527.572,Thursday,13
+2026-10-15 13:13:41,11,Central Library,Houston Museum of Natural Science,4.411,894.9,829.088,Thursday,13
+2026-10-15 13:13:41,12,University of Houston,NRG Arena,9.179,1044.0,971.084,Thursday,13
+2026-10-15 13:13:42,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1536.7,1484.927,Thursday,13
+2026-10-15 13:13:42,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1179.3,1146.059,Thursday,13
+2026-10-15 13:13:42,15,Houston Sports Park,Discovery Green,9.764,1110.9,1001.811,Thursday,13
