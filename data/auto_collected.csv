@@ -464,3 +464,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-14 20:24:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1258.7,1237.643,Wednesday,20
 2026-10-14 20:24:41,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,939.1,953.59,Wednesday,20
 2026-10-14 20:24:41,15,Houston Sports Park,Discovery Green,9.762,911.9,877.122,Wednesday,20
+2026-10-15 02:20:25,1,Houston City College,Houston City College West Loop Campus,7.005,612.7,619.484,Thursday,2
+2026-10-15 02:20:25,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,768.6,771.254,Thursday,2
+2026-10-15 02:20:25,3,Houston City College,Rice University,3.135,927.7,1037.603,Thursday,2
+2026-10-15 02:20:25,4,Discovery Green,Hermann Park,4.807,783.2,765.732,Thursday,2
+2026-10-15 02:20:26,5,Discovery Green,University of Houston,3.454,717.1,797.568,Thursday,2
+2026-10-15 02:20:26,6,Houston City College West Loop Campus,Levy Park,2.871,468.3,491.949,Thursday,2
+2026-10-15 02:20:26,7,Houston City College West Loop Campus,Hermann Park,6.28,809.9,831.185,Thursday,2
+2026-10-15 02:20:26,8,Houston City College Northeast - Northline Campus,Discovery Green,6.761,752.6,767.785,Thursday,2
+2026-10-15 02:20:27,9,Memorial Park,Discovery Green,5.904,847.1,833.587,Thursday,2
+2026-10-15 02:20:27,10,Rice University,Space Center Houston,28.13,2096.4,2207.458,Thursday,2
+2026-10-15 02:20:27,11,Central Library,Houston Museum of Natural Science,4.832,621.7,631.523,Thursday,2
+2026-10-15 02:20:27,12,University of Houston,NRG Arena,9.177,887.7,922.371,Thursday,2
+2026-10-15 02:20:28,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1084.5,1090.019,Thursday,2
+2026-10-15 02:20:28,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,862.7,887.823,Thursday,2
+2026-10-15 02:20:28,15,Houston Sports Park,Discovery Green,9.762,829.2,816.939,Thursday,2
