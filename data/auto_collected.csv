@@ -449,3 +449,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-14 17:14:58,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,2298.1,2087.444,Wednesday,17
 2026-10-14 17:14:58,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1769.7,1521.119,Wednesday,17
 2026-10-14 17:14:58,15,Houston Sports Park,Discovery Green,10.262,1695.2,1543.31,Wednesday,17
+2026-10-14 20:24:38,1,Houston City College,Houston City College West Loop Campus,7.005,724.4,666.126,Wednesday,20
+2026-10-14 20:24:39,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,778.4,793.986,Wednesday,20
+2026-10-14 20:24:39,3,Houston City College,Rice University,3.135,1083.2,1128.703,Wednesday,20
+2026-10-14 20:24:39,4,Discovery Green,Hermann Park,4.807,789.3,742.973,Wednesday,20
+2026-10-14 20:24:39,5,Discovery Green,University of Houston,3.256,822.0,829.638,Wednesday,20
+2026-10-14 20:24:39,6,Houston City College West Loop Campus,Levy Park,2.798,490.3,515.601,Wednesday,20
+2026-10-14 20:24:39,7,Houston City College West Loop Campus,Hermann Park,6.28,989.3,893.627,Wednesday,20
+2026-10-14 20:24:40,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,870.1,833.331,Wednesday,20
+2026-10-14 20:24:40,9,Memorial Park,Discovery Green,5.904,924.5,850.126,Wednesday,20
+2026-10-14 20:24:40,10,Rice University,Space Center Houston,28.13,2240.3,2311.577,Wednesday,20
+2026-10-14 20:24:40,11,Central Library,Houston Museum of Natural Science,4.832,786.6,752.058,Wednesday,20
+2026-10-14 20:24:40,12,University of Houston,NRG Arena,9.179,979.2,954.947,Wednesday,20
+2026-10-14 20:24:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1258.7,1237.643,Wednesday,20
+2026-10-14 20:24:41,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,939.1,953.59,Wednesday,20
+2026-10-14 20:24:41,15,Houston Sports Park,Discovery Green,9.762,911.9,877.122,Wednesday,20
