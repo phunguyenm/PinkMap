@@ -524,3 +524,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-15 17:11:02,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.658,2286.4,2018.267,Thursday,17
 2026-10-15 17:11:02,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1954.9,1530.024,Thursday,17
 2026-10-15 17:11:03,15,Houston Sports Park,Discovery Green,9.978,1652.7,1442.362,Thursday,17
+2026-10-15 20:14:01,1,Houston City College,Houston City College West Loop Campus,7.005,730.0,667.848,Thursday,20
+2026-10-15 20:14:01,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,826.8,797.786,Thursday,20
+2026-10-15 20:14:02,3,Houston City College,Rice University,3.135,1112.9,1126.379,Thursday,20
+2026-10-15 20:14:02,4,Discovery Green,Hermann Park,4.807,775.0,744.212,Thursday,20
+2026-10-15 20:14:02,5,Discovery Green,University of Houston,3.454,819.0,784.497,Thursday,20
+2026-10-15 20:14:03,6,Houston City College West Loop Campus,Levy Park,2.798,536.1,514.337,Thursday,20
+2026-10-15 20:14:03,7,Houston City College West Loop Campus,Hermann Park,6.28,999.0,894.689,Thursday,20
+2026-10-15 20:14:03,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,915.6,834.69,Thursday,20
+2026-10-15 20:14:03,9,Memorial Park,Discovery Green,5.76,942.4,844.398,Thursday,20
+2026-10-15 20:14:04,10,Rice University,Space Center Houston,28.13,2361.6,2314.333,Thursday,20
+2026-10-15 20:14:04,11,Central Library,Houston Museum of Natural Science,4.832,800.6,754.902,Thursday,20
+2026-10-15 20:14:04,12,University of Houston,NRG Arena,9.177,1008.6,971.323,Thursday,20
+2026-10-15 20:14:05,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1264.8,1213.311,Thursday,20
+2026-10-15 20:14:05,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1050.7,949.684,Thursday,20
+2026-10-15 20:14:05,15,Houston Sports Park,Discovery Green,9.762,1011.3,877.247,Thursday,20
