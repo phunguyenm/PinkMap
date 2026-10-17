@@ -659,3 +659,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-17 08:39:56,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1119.0,1116.113,Saturday,8
 2026-10-17 08:39:56,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,915.2,899.42,Saturday,8
 2026-10-17 08:39:56,15,Houston Sports Park,Discovery Green,9.762,922.8,823.75,Saturday,8
+2026-10-17 12:03:54,1,Houston City College,Houston City College West Loop Campus,6.136,725.5,665.718,Saturday,12
+2026-10-17 12:03:54,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,861.8,832.746,Saturday,12
+2026-10-17 12:03:54,3,Houston City College,Rice University,3.135,1171.1,1097.61,Saturday,12
+2026-10-17 12:03:54,4,Discovery Green,Hermann Park,4.807,812.4,767.733,Saturday,12
+2026-10-17 12:03:54,5,Discovery Green,University of Houston,3.454,742.8,757.471,Saturday,12
+2026-10-17 12:03:55,6,Houston City College West Loop Campus,Levy Park,2.871,525.7,540.593,Saturday,12
+2026-10-17 12:03:55,7,Houston City College West Loop Campus,Hermann Park,6.28,1006.5,931.529,Saturday,12
+2026-10-17 12:03:55,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,882.7,892.131,Saturday,12
+2026-10-17 12:03:55,9,Memorial Park,Discovery Green,5.904,898.7,824.591,Saturday,12
+2026-10-17 12:03:55,10,Rice University,Space Center Houston,28.129,2390.7,2419.803,Saturday,12
+2026-10-17 12:03:56,11,Central Library,Houston Museum of Natural Science,3.692,896.8,848.172,Saturday,12
+2026-10-17 12:03:56,12,University of Houston,NRG Arena,9.179,962.9,928.455,Saturday,12
+2026-10-17 12:03:56,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1483.9,1364.438,Saturday,12
+2026-10-17 12:03:56,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1071.5,1007.096,Saturday,12
+2026-10-17 12:03:56,15,Houston Sports Park,Discovery Green,9.762,977.7,892.653,Saturday,12
