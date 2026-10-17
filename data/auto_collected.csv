@@ -674,3 +674,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-17 12:03:56,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1483.9,1364.438,Saturday,12
 2026-10-17 12:03:56,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1071.5,1007.096,Saturday,12
 2026-10-17 12:03:56,15,Houston Sports Park,Discovery Green,9.762,977.7,892.653,Saturday,12
+2026-10-17 14:18:57,1,Houston City College,Houston City College West Loop Campus,6.136,724.3,694.828,Saturday,14
+2026-10-17 14:18:57,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,934.1,879.379,Saturday,14
+2026-10-17 14:18:57,3,Houston City College,Rice University,3.135,996.7,1059.997,Saturday,14
+2026-10-17 14:18:57,4,Discovery Green,Hermann Park,4.807,874.3,784.971,Saturday,14
+2026-10-17 14:18:58,5,Discovery Green,University of Houston,3.454,778.0,770.879,Saturday,14
+2026-10-17 14:18:58,6,Houston City College West Loop Campus,Levy Park,2.871,513.6,540.902,Saturday,14
+2026-10-17 14:18:58,7,Houston City College West Loop Campus,Hermann Park,5.626,1138.1,1132.205,Saturday,14
+2026-10-17 14:18:58,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,979.9,891.522,Saturday,14
+2026-10-17 14:18:59,9,Memorial Park,Discovery Green,5.76,965.5,804.048,Saturday,14
+2026-10-17 14:18:59,10,Rice University,Space Center Houston,28.129,2460.9,2419.765,Saturday,14
+2026-10-17 14:18:59,11,Central Library,Houston Museum of Natural Science,3.692,819.6,843.329,Saturday,14
+2026-10-17 14:18:59,12,University of Houston,NRG Arena,9.179,967.6,930.935,Saturday,14
+2026-10-17 14:18:59,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1463.6,1373.326,Saturday,14
+2026-10-17 14:19:00,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1226.3,1133.901,Saturday,14
+2026-10-17 14:19:00,15,Houston Sports Park,Discovery Green,9.762,1138.0,947.354,Saturday,14
