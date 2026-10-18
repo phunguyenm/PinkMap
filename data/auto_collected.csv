@@ -704,3 +704,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-17 17:13:27,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1552.7,1293.806,Saturday,17
 2026-10-17 17:13:28,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1110.2,1047.572,Saturday,17
 2026-10-17 17:13:28,15,Houston Sports Park,Discovery Green,9.762,1084.9,947.874,Saturday,17
+2026-10-17 19:55:40,1,Houston City College,Houston City College West Loop Campus,7.005,710.8,645.418,Saturday,19
+2026-10-17 19:55:40,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,883.6,802.265,Saturday,19
+2026-10-17 19:55:41,3,Houston City College,Rice University,3.135,912.7,1026.187,Saturday,19
+2026-10-17 19:55:41,4,Discovery Green,Hermann Park,4.807,877.4,760.452,Saturday,19
+2026-10-17 19:55:41,5,Discovery Green,University of Houston,3.454,789.2,800.154,Saturday,19
+2026-10-17 19:55:41,6,Houston City College West Loop Campus,Levy Park,2.798,506.4,505.517,Saturday,19
+2026-10-17 19:55:42,7,Houston City College West Loop Campus,Hermann Park,6.28,1012.4,886.787,Saturday,19
+2026-10-17 19:55:42,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,904.5,864.672,Saturday,19
+2026-10-17 19:55:42,9,Memorial Park,Discovery Green,5.889,887.4,821.252,Saturday,19
+2026-10-17 19:55:42,10,Rice University,Space Center Houston,28.13,2393.5,2309.657,Saturday,19
+2026-10-17 19:55:42,11,Central Library,Houston Museum of Natural Science,3.692,845.2,858.624,Saturday,19
+2026-10-17 19:55:43,12,University of Houston,NRG Arena,9.177,933.8,925.269,Saturday,19
+2026-10-17 19:55:43,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1475.0,1234.608,Saturday,19
+2026-10-17 19:55:43,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1036.4,951.976,Saturday,19
+2026-10-17 19:55:43,15,Houston Sports Park,Discovery Green,9.762,988.4,893.388,Saturday,19
