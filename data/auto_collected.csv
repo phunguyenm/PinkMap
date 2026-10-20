@@ -929,3 +929,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-20 11:53:01,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1419.7,1431.155,Tuesday,11
 2026-10-20 11:53:01,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1115.6,1084.183,Tuesday,11
 2026-10-20 11:53:01,15,Houston Sports Park,Discovery Green,9.762,958.7,965.74,Tuesday,11
+2026-10-20 15:30:19,1,Houston City College,Houston City College West Loop Campus,6.136,966.9,820.714,Tuesday,15
+2026-10-20 15:30:20,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1403.0,1243.868,Tuesday,15
+2026-10-20 15:30:20,3,Houston City College,Rice University,3.135,1018.8,1212.682,Tuesday,15
+2026-10-20 15:30:20,4,Discovery Green,Hermann Park,4.807,880.4,806.156,Tuesday,15
+2026-10-20 15:30:20,5,Discovery Green,University of Houston,3.454,777.3,794.13,Tuesday,15
+2026-10-20 15:30:21,6,Houston City College West Loop Campus,Levy Park,2.871,627.1,566.673,Tuesday,15
+2026-10-20 15:30:21,7,Houston City College West Loop Campus,Hermann Park,5.626,1283.9,1240.847,Tuesday,15
+2026-10-20 15:30:21,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,963.9,956.713,Tuesday,15
+2026-10-20 15:30:22,9,Memorial Park,Discovery Green,5.904,907.7,854.997,Tuesday,15
+2026-10-20 15:30:22,10,Rice University,Space Center Houston,31.402,2545.8,2645.887,Tuesday,15
+2026-10-20 15:30:22,11,Central Library,Houston Museum of Natural Science,4.411,896.8,874.835,Tuesday,15
+2026-10-20 15:30:23,12,University of Houston,NRG Arena,9.179,1130.8,1061.044,Tuesday,15
+2026-10-20 15:30:23,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,1753.8,1745.189,Tuesday,15
+2026-10-20 15:30:23,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1581.1,1414.177,Tuesday,15
+2026-10-20 15:30:24,15,Houston Sports Park,Discovery Green,9.978,1487.1,1383.274,Tuesday,15
