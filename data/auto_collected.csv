@@ -944,3 +944,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-20 15:30:23,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.181,1753.8,1745.189,Tuesday,15
 2026-10-20 15:30:23,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1581.1,1414.177,Tuesday,15
 2026-10-20 15:30:24,15,Houston Sports Park,Discovery Green,9.978,1487.1,1383.274,Tuesday,15
+2026-10-20 18:48:41,1,Houston City College,Houston City College West Loop Campus,6.136,834.4,724.025,Tuesday,18
+2026-10-20 18:48:41,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1263.7,939.16,Tuesday,18
+2026-10-20 18:48:42,3,Houston City College,Rice University,3.135,1114.3,1138.021,Tuesday,18
+2026-10-20 18:48:42,4,Discovery Green,Hermann Park,4.807,877.7,827.635,Tuesday,18
+2026-10-20 18:48:42,5,Discovery Green,University of Houston,3.454,808.3,830.864,Tuesday,18
+2026-10-20 18:48:42,6,Houston City College West Loop Campus,Levy Park,2.871,591.0,579.257,Tuesday,18
+2026-10-20 18:48:42,7,Houston City College West Loop Campus,Hermann Park,5.626,1188.5,1157.132,Tuesday,18
+2026-10-20 18:48:42,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,985.0,953.281,Tuesday,18
+2026-10-20 18:48:43,9,Memorial Park,Discovery Green,5.76,882.8,868.765,Tuesday,18
+2026-10-20 18:48:43,10,Rice University,Space Center Houston,31.402,2336.1,2443.402,Tuesday,18
+2026-10-20 18:48:43,11,Central Library,Houston Museum of Natural Science,3.692,912.7,937.592,Tuesday,18
+2026-10-20 18:48:43,12,University of Houston,NRG Arena,6.292,1024.0,1087.516,Tuesday,18
+2026-10-20 18:48:43,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1700.8,1435.442,Tuesday,18
+2026-10-20 18:48:44,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,12.087,1572.0,1221.095,Tuesday,18
+2026-10-20 18:48:44,15,Houston Sports Park,Discovery Green,9.762,1274.8,1025.06,Tuesday,18
