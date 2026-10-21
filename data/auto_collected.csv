@@ -974,3 +974,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-20 23:34:22,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1096.9,1114.212,Tuesday,23
 2026-10-20 23:34:22,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.255,1069.7,1028.096,Tuesday,23
 2026-10-20 23:34:23,15,Houston Sports Park,Discovery Green,9.762,862.0,847.075,Tuesday,23
+2026-10-21 05:02:54,1,Houston City College,Houston City College West Loop Campus,7.005,611.6,597.6,Wednesday,5
+2026-10-21 05:02:55,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,722.5,725.603,Wednesday,5
+2026-10-21 05:02:55,3,Houston City College,Rice University,3.135,997.2,1064.676,Wednesday,5
+2026-10-21 05:02:55,4,Discovery Green,Hermann Park,4.807,722.6,719.415,Wednesday,5
+2026-10-21 05:02:56,5,Discovery Green,University of Houston,3.256,764.0,751.377,Wednesday,5
+2026-10-21 05:02:56,6,Houston City College West Loop Campus,Levy Park,2.871,449.7,464.583,Wednesday,5
+2026-10-21 05:02:56,7,Houston City College West Loop Campus,Hermann Park,6.28,809.8,816.151,Wednesday,5
+2026-10-21 05:02:56,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,724.2,723.522,Wednesday,5
+2026-10-21 05:02:57,9,Memorial Park,Discovery Green,5.76,742.7,747.666,Wednesday,5
+2026-10-21 05:02:57,10,Rice University,Space Center Houston,28.13,2136.4,2165.161,Wednesday,5
+2026-10-21 05:02:57,11,Central Library,Houston Museum of Natural Science,4.832,636.2,628.746,Wednesday,5
+2026-10-21 05:02:57,12,University of Houston,NRG Arena,9.177,876.7,882.673,Wednesday,5
+2026-10-21 05:02:58,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1075.5,1065.37,Wednesday,5
+2026-10-21 05:02:58,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,869.7,885.89,Wednesday,5
+2026-10-21 05:02:58,15,Houston Sports Park,Discovery Green,9.762,812.6,795.525,Wednesday,5
