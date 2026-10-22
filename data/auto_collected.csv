@@ -1064,3 +1064,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-22 05:04:10,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1052.1,1059.705,Thursday,5
 2026-10-22 05:04:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,860.8,885.055,Thursday,5
 2026-10-22 05:04:11,15,Houston Sports Park,Discovery Green,9.762,800.4,798.922,Thursday,5
+2026-10-22 10:11:21,1,Houston City College,Houston City College West Loop Campus,6.136,715.1,683.383,Thursday,10
+2026-10-22 10:11:21,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,818.0,822.363,Thursday,10
+2026-10-22 10:11:22,3,Houston City College,Rice University,3.135,805.3,1094.79,Thursday,10
+2026-10-22 10:11:22,4,Discovery Green,Hermann Park,4.807,877.0,782.374,Thursday,10
+2026-10-22 10:11:22,5,Discovery Green,University of Houston,3.454,796.3,804.155,Thursday,10
+2026-10-22 10:11:22,6,Houston City College West Loop Campus,Levy Park,2.871,531.2,522.936,Thursday,10
+2026-10-22 10:11:22,7,Houston City College West Loop Campus,Hermann Park,6.28,989.8,911.805,Thursday,10
+2026-10-22 10:11:23,8,Houston City College Northeast - Northline Campus,Discovery Green,8.533,1054.0,978.213,Thursday,10
+2026-10-22 10:11:23,9,Memorial Park,Discovery Green,5.904,843.5,811.822,Thursday,10
+2026-10-22 10:11:23,10,Rice University,Space Center Houston,28.129,2341.2,2355.527,Thursday,10
+2026-10-22 10:11:23,11,Central Library,Houston Museum of Natural Science,3.692,809.9,859.078,Thursday,10
+2026-10-22 10:11:24,12,University of Houston,NRG Arena,9.177,969.1,967.715,Thursday,10
+2026-10-22 10:11:24,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1537.5,1360.042,Thursday,10
+2026-10-22 10:11:24,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1020.0,1001.781,Thursday,10
+2026-10-22 10:11:24,15,Houston Sports Park,Discovery Green,9.762,942.3,901.7,Thursday,10
