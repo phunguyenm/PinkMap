@@ -1259,3 +1259,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-24 13:04:23,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1582.1,1424.339,Saturday,13
 2026-10-24 13:04:23,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1261.8,1094.913,Saturday,13
 2026-10-24 13:04:24,15,Houston Sports Park,Discovery Green,9.764,1048.6,957.759,Saturday,13
+2026-10-24 15:42:30,1,Houston City College,Houston City College West Loop Campus,6.136,736.9,679.036,Saturday,15
+2026-10-24 15:42:30,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,923.7,871.085,Saturday,15
+2026-10-24 15:42:30,3,Houston City College,Rice University,3.135,1036.0,1031.487,Saturday,15
+2026-10-24 15:42:31,4,Discovery Green,Hermann Park,4.807,899.5,760.335,Saturday,15
+2026-10-24 15:42:31,5,Discovery Green,University of Houston,3.308,875.1,826.39,Saturday,15
+2026-10-24 15:42:31,6,Houston City College West Loop Campus,Levy Park,2.871,541.5,526.397,Saturday,15
+2026-10-24 15:42:31,7,Houston City College West Loop Campus,Hermann Park,5.626,1152.4,1127.883,Saturday,15
+2026-10-24 15:42:32,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,925.7,894.063,Saturday,15
+2026-10-24 15:42:32,9,Memorial Park,Discovery Green,5.76,860.2,801.513,Saturday,15
+2026-10-24 15:42:32,10,Rice University,Space Center Houston,28.129,2515.4,2365.151,Saturday,15
+2026-10-24 15:42:32,11,Central Library,Houston Museum of Natural Science,3.692,806.6,840.815,Saturday,15
+2026-10-24 15:42:32,12,University of Houston,NRG Arena,9.177,1004.6,931.656,Saturday,15
+2026-10-24 15:42:33,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1529.6,1423.859,Saturday,15
+2026-10-24 15:42:33,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1163.1,1065.409,Saturday,15
+2026-10-24 15:42:33,15,Houston Sports Park,Discovery Green,9.762,1058.0,930.277,Saturday,15
