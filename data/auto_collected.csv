@@ -1274,3 +1274,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-24 15:42:33,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1529.6,1423.859,Saturday,15
 2026-10-24 15:42:33,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1163.1,1065.409,Saturday,15
 2026-10-24 15:42:33,15,Houston Sports Park,Discovery Green,9.762,1058.0,930.277,Saturday,15
+2026-10-24 18:07:27,1,Houston City College,Houston City College West Loop Campus,6.136,707.7,659.876,Saturday,18
+2026-10-24 18:07:27,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,834.5,795.191,Saturday,18
+2026-10-24 18:07:27,3,Houston City College,Rice University,3.135,1088.8,1061.451,Saturday,18
+2026-10-24 18:07:27,4,Discovery Green,Hermann Park,4.807,1095.4,771.317,Saturday,18
+2026-10-24 18:07:27,5,Discovery Green,University of Houston,3.454,759.7,779.799,Saturday,18
+2026-10-24 18:07:28,6,Houston City College West Loop Campus,Levy Park,2.871,563.6,522.251,Saturday,18
+2026-10-24 18:07:28,7,Houston City College West Loop Campus,Hermann Park,5.626,1306.8,1135.484,Saturday,18
+2026-10-24 18:07:28,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,906.3,902.016,Saturday,18
+2026-10-24 18:07:28,9,Memorial Park,Discovery Green,5.904,972.6,852.357,Saturday,18
+2026-10-24 18:07:28,10,Rice University,Space Center Houston,28.129,2338.2,2311.686,Saturday,18
+2026-10-24 18:07:29,11,Central Library,Houston Museum of Natural Science,3.692,916.2,838.464,Saturday,18
+2026-10-24 18:07:29,12,University of Houston,NRG Arena,9.177,956.2,911.477,Saturday,18
+2026-10-24 18:07:29,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1494.4,1332.746,Saturday,18
+2026-10-24 18:07:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1100.8,994.53,Saturday,18
+2026-10-24 18:07:29,15,Houston Sports Park,Discovery Green,9.762,1043.6,928.418,Saturday,18
