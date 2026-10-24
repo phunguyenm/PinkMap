@@ -1244,3 +1244,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-24 09:27:24,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1238.7,1149.848,Saturday,9
 2026-10-24 09:27:25,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,943.6,877.895,Saturday,9
 2026-10-24 09:27:25,15,Houston Sports Park,Discovery Green,9.762,905.0,845.34,Saturday,9
+2026-10-24 13:04:19,1,Houston City College,Houston City College West Loop Campus,6.136,740.2,680.872,Saturday,13
+2026-10-24 13:04:20,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,867.1,851.785,Saturday,13
+2026-10-24 13:04:20,3,Houston City College,Rice University,3.135,1002.3,1086.61,Saturday,13
+2026-10-24 13:04:20,4,Discovery Green,Hermann Park,4.807,807.2,785.91,Saturday,13
+2026-10-24 13:04:21,5,Discovery Green,University of Houston,3.454,749.2,768.185,Saturday,13
+2026-10-24 13:04:21,6,Houston City College West Loop Campus,Levy Park,2.871,567.8,548.306,Saturday,13
+2026-10-24 13:04:21,7,Houston City College West Loop Campus,Hermann Park,6.28,1053.3,967.044,Saturday,13
+2026-10-24 13:04:21,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,970.4,880.748,Saturday,13
+2026-10-24 13:04:22,9,Memorial Park,Discovery Green,5.76,878.4,808.198,Saturday,13
+2026-10-24 13:04:22,10,Rice University,Space Center Houston,31.402,2320.5,2504.802,Saturday,13
+2026-10-24 13:04:22,11,Central Library,Houston Museum of Natural Science,3.561,845.5,830.41,Saturday,13
+2026-10-24 13:04:23,12,University of Houston,NRG Arena,9.179,994.1,961.703,Saturday,13
+2026-10-24 13:04:23,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1582.1,1424.339,Saturday,13
+2026-10-24 13:04:23,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1261.8,1094.913,Saturday,13
+2026-10-24 13:04:24,15,Houston Sports Park,Discovery Green,9.764,1048.6,957.759,Saturday,13
