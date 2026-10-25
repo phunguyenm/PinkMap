@@ -1289,3 +1289,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-24 18:07:29,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1494.4,1332.746,Saturday,18
 2026-10-24 18:07:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1100.8,994.53,Saturday,18
 2026-10-24 18:07:29,15,Houston Sports Park,Discovery Green,9.762,1043.6,928.418,Saturday,18
+2026-10-24 23:31:08,1,Houston City College,Houston City College West Loop Campus,7.005,668.7,633.39,Saturday,23
+2026-10-24 23:31:09,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,798.1,778.13,Saturday,23
+2026-10-24 23:31:09,3,Houston City College,Rice University,3.135,929.4,999.017,Saturday,23
+2026-10-24 23:31:09,4,Discovery Green,Hermann Park,4.807,792.8,747.825,Saturday,23
+2026-10-24 23:31:09,5,Discovery Green,University of Houston,3.454,807.2,833.353,Saturday,23
+2026-10-24 23:31:09,6,Houston City College West Loop Campus,Levy Park,2.798,523.1,525.329,Saturday,23
+2026-10-24 23:31:10,7,Houston City College West Loop Campus,Hermann Park,6.28,849.5,844.904,Saturday,23
+2026-10-24 23:31:10,8,Houston City College Northeast - Northline Campus,Discovery Green,6.761,840.4,836.888,Saturday,23
+2026-10-24 23:31:10,9,Memorial Park,Discovery Green,5.889,815.1,882.289,Saturday,23
+2026-10-24 23:31:10,10,Rice University,Space Center Houston,28.13,2179.5,2264.907,Saturday,23
+2026-10-24 23:31:10,11,Central Library,Houston Museum of Natural Science,4.832,708.0,688.046,Saturday,23
+2026-10-24 23:31:10,12,University of Houston,NRG Arena,9.177,938.5,948.279,Saturday,23
+2026-10-24 23:31:11,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1153.2,1117.828,Saturday,23
+2026-10-24 23:31:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,886.1,921.785,Saturday,23
+2026-10-24 23:31:11,15,Houston Sports Park,Discovery Green,9.762,914.7,862.24,Saturday,23
