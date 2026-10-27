@@ -1454,3 +1454,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-26 23:53:52,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1110.0,1106.181,Monday,23
 2026-10-26 23:53:52,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,853.2,869.406,Monday,23
 2026-10-26 23:53:52,15,Houston Sports Park,Discovery Green,9.762,834.8,848.653,Monday,23
+2026-10-27 05:26:38,1,Houston City College,Houston City College West Loop Campus,7.005,618.3,596.303,Tuesday,5
+2026-10-27 05:26:38,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,760.1,737.947,Tuesday,5
+2026-10-27 05:26:38,3,Houston City College,Rice University,3.135,1000.3,1052.016,Tuesday,5
+2026-10-27 05:26:38,4,Discovery Green,Hermann Park,4.807,763.5,762.436,Tuesday,5
+2026-10-27 05:26:38,5,Discovery Green,University of Houston,3.454,777.6,764.236,Tuesday,5
+2026-10-27 05:26:39,6,Houston City College West Loop Campus,Levy Park,2.871,452.3,470.718,Tuesday,5
+2026-10-27 05:26:39,7,Houston City College West Loop Campus,Hermann Park,6.28,813.5,798.274,Tuesday,5
+2026-10-27 05:26:39,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,725.0,744.512,Tuesday,5
+2026-10-27 05:26:39,9,Memorial Park,Discovery Green,5.904,729.6,755.404,Tuesday,5
+2026-10-27 05:26:39,10,Rice University,Space Center Houston,28.13,2152.5,2214.387,Tuesday,5
+2026-10-27 05:26:40,11,Central Library,Houston Museum of Natural Science,5.08,681,693.533,Tuesday,5
+2026-10-27 05:26:40,12,University of Houston,NRG Arena,9.177,856.3,884.811,Tuesday,5
+2026-10-27 05:26:40,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1068.0,1083.521,Tuesday,5
+2026-10-27 05:26:40,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,882.5,884.765,Tuesday,5
+2026-10-27 05:26:40,15,Houston Sports Park,Discovery Green,9.762,810.5,814.011,Tuesday,5
