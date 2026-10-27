@@ -1484,3 +1484,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-27 11:28:59,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1558.7,1419.297,Tuesday,11
 2026-10-27 11:28:59,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1085.2,1051.187,Tuesday,11
 2026-10-27 11:28:59,15,Houston Sports Park,Discovery Green,9.762,1090.0,928.119,Tuesday,11
+2026-10-27 16:15:25,1,Houston City College,Houston City College West Loop Campus,6.136,980.5,898.48,Tuesday,16
+2026-10-27 16:15:26,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1540.0,1361.584,Tuesday,16
+2026-10-27 16:15:26,3,Houston City College,Rice University,3.135,1095.6,1153.98,Tuesday,16
+2026-10-27 16:15:26,4,Discovery Green,Hermann Park,4.807,767.1,884.488,Tuesday,16
+2026-10-27 16:15:26,5,Discovery Green,University of Houston,3.454,799.6,872.688,Tuesday,16
+2026-10-27 16:15:26,6,Houston City College West Loop Campus,Levy Park,2.871,666.0,614.982,Tuesday,16
+2026-10-27 16:15:26,7,Houston City College West Loop Campus,Hermann Park,5.626,1419.1,1329.813,Tuesday,16
+2026-10-27 16:15:27,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,962.3,1057.123,Tuesday,16
+2026-10-27 16:15:27,9,Memorial Park,Discovery Green,5.904,913.8,929.569,Tuesday,16
+2026-10-27 16:15:27,10,Rice University,Space Center Houston,31.402,2656.8,2752.801,Tuesday,16
+2026-10-27 16:15:27,11,Central Library,Houston Museum of Natural Science,4.411,959.5,931.026,Tuesday,16
+2026-10-27 16:15:27,12,University of Houston,NRG Arena,6.292,1138.7,1184.115,Tuesday,16
+2026-10-27 16:15:27,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2058.3,2169.226,Tuesday,16
+2026-10-27 16:15:28,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1633.4,1510.275,Tuesday,16
+2026-10-27 16:15:28,15,Houston Sports Park,Discovery Green,9.978,1572.5,1474.465,Tuesday,16
