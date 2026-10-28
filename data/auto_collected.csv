@@ -1529,3 +1529,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-28 03:20:19,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1074.1,1090.035,Wednesday,3
 2026-10-28 03:20:19,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,892.0,899.491,Wednesday,3
 2026-10-28 03:20:19,15,Houston Sports Park,Discovery Green,9.762,792.9,796.407,Wednesday,3
+2026-10-28 10:57:32,1,Houston City College,Houston City College West Loop Campus,6.136,743.7,686.26,Wednesday,10
+2026-10-28 10:57:32,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,824.6,836.442,Wednesday,10
+2026-10-28 10:57:32,3,Houston City College,Rice University,3.135,1097.0,1154.323,Wednesday,10
+2026-10-28 10:57:32,4,Discovery Green,Hermann Park,4.807,784.1,763.837,Wednesday,10
+2026-10-28 10:57:33,5,Discovery Green,University of Houston,3.308,919.8,833.359,Wednesday,10
+2026-10-28 10:57:33,6,Houston City College West Loop Campus,Levy Park,2.871,548.2,526.622,Wednesday,10
+2026-10-28 10:57:33,7,Houston City College West Loop Campus,Hermann Park,6.28,1030.0,886.141,Wednesday,10
+2026-10-28 10:57:33,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,943.7,881.804,Wednesday,10
+2026-10-28 10:57:34,9,Memorial Park,Discovery Green,5.904,876.5,819.004,Wednesday,10
+2026-10-28 10:57:34,10,Rice University,Space Center Houston,28.129,2388.9,2413.487,Wednesday,10
+2026-10-28 10:57:34,11,Central Library,Houston Museum of Natural Science,4.829,849.9,802.744,Wednesday,10
+2026-10-28 10:57:34,12,University of Houston,NRG Arena,9.177,1010.4,975.519,Wednesday,10
+2026-10-28 10:57:35,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1560.8,1362.623,Wednesday,10
+2026-10-28 10:57:35,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1116.9,1005.233,Wednesday,10
+2026-10-28 10:57:35,15,Houston Sports Park,Discovery Green,9.762,973.5,910.502,Wednesday,10
