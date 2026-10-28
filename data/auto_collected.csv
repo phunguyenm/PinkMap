@@ -1499,3 +1499,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-27 16:15:27,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2058.3,2169.226,Tuesday,16
 2026-10-27 16:15:28,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1633.4,1510.275,Tuesday,16
 2026-10-27 16:15:28,15,Houston Sports Park,Discovery Green,9.978,1572.5,1474.465,Tuesday,16
+2026-10-27 20:13:52,1,Houston City College,Houston City College West Loop Campus,7.005,671.4,667.725,Tuesday,20
+2026-10-27 20:13:52,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,762.2,795.303,Tuesday,20
+2026-10-27 20:13:53,3,Houston City College,Rice University,3.135,1088.2,1126.057,Tuesday,20
+2026-10-27 20:13:53,4,Discovery Green,Hermann Park,4.807,719.7,741.992,Tuesday,20
+2026-10-27 20:13:53,5,Discovery Green,University of Houston,3.454,721.9,788.41,Tuesday,20
+2026-10-27 20:13:53,6,Houston City College West Loop Campus,Levy Park,2.798,535.6,514.646,Tuesday,20
+2026-10-27 20:13:53,7,Houston City College West Loop Campus,Hermann Park,5.626,1039.2,1100.498,Tuesday,20
+2026-10-27 20:13:54,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,823.4,836.949,Tuesday,20
+2026-10-27 20:13:54,9,Memorial Park,Discovery Green,5.904,984.6,848.134,Tuesday,20
+2026-10-27 20:13:54,10,Rice University,Space Center Houston,28.13,2229.1,2315.179,Tuesday,20
+2026-10-27 20:13:55,11,Central Library,Houston Museum of Natural Science,4.832,709.3,752.658,Tuesday,20
+2026-10-27 20:13:55,12,University of Houston,NRG Arena,9.177,947.8,974.473,Tuesday,20
+2026-10-27 20:13:55,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1246.0,1239.138,Tuesday,20
+2026-10-27 20:13:55,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,962.1,950.84,Tuesday,20
+2026-10-27 20:13:56,15,Houston Sports Park,Discovery Green,9.762,855.7,877.165,Tuesday,20
