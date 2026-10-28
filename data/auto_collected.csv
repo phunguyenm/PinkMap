@@ -1544,3 +1544,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-28 10:57:35,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1560.8,1362.623,Wednesday,10
 2026-10-28 10:57:35,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1116.9,1005.233,Wednesday,10
 2026-10-28 10:57:35,15,Houston Sports Park,Discovery Green,9.762,973.5,910.502,Wednesday,10
+2026-10-28 15:58:56,1,Houston City College,Houston City College West Loop Campus,6.136,924.0,871.487,Wednesday,15
+2026-10-28 15:58:56,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1237.7,1336.514,Wednesday,15
+2026-10-28 15:58:56,3,Houston City College,Rice University,3.135,1035.2,1164.016,Wednesday,15
+2026-10-28 15:58:57,4,Discovery Green,Hermann Park,4.807,866.7,868.361,Wednesday,15
+2026-10-28 15:58:57,5,Discovery Green,University of Houston,3.454,873.4,863.522,Wednesday,15
+2026-10-28 15:58:57,6,Houston City College West Loop Campus,Levy Park,3.011,657.6,636.465,Wednesday,15
+2026-10-28 15:58:57,7,Houston City College West Loop Campus,Hermann Park,5.769,1351.4,1272.034,Wednesday,15
+2026-10-28 15:58:57,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1008.7,1030.428,Wednesday,15
+2026-10-28 15:58:57,9,Memorial Park,Discovery Green,5.904,965.9,911.715,Wednesday,15
+2026-10-28 15:58:58,10,Rice University,Space Center Houston,31.402,2784.1,2750.631,Wednesday,15
+2026-10-28 15:58:58,11,Central Library,Houston Museum of Natural Science,4.829,959.5,938.086,Wednesday,15
+2026-10-28 15:58:58,12,University of Houston,NRG Arena,6.292,1051.3,1164.748,Wednesday,15
+2026-10-28 15:58:58,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.816,1867.3,1873.562,Wednesday,15
+2026-10-28 15:58:58,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1528.7,1480.486,Wednesday,15
+2026-10-28 15:58:58,15,Houston Sports Park,Discovery Green,9.978,1507.5,1474.439,Wednesday,15
