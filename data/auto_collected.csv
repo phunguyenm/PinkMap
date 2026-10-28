@@ -1514,3 +1514,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-27 20:13:55,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1246.0,1239.138,Tuesday,20
 2026-10-27 20:13:55,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,962.1,950.84,Tuesday,20
 2026-10-27 20:13:56,15,Houston Sports Park,Discovery Green,9.762,855.7,877.165,Tuesday,20
+2026-10-28 03:20:16,1,Houston City College,Houston City College West Loop Campus,7.005,609.3,618.587,Wednesday,3
+2026-10-28 03:20:16,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,782.3,756.504,Wednesday,3
+2026-10-28 03:20:16,3,Houston City College,Rice University,3.135,1019.7,1091.231,Wednesday,3
+2026-10-28 03:20:17,4,Discovery Green,Hermann Park,4.807,732.0,767.229,Wednesday,3
+2026-10-28 03:20:17,5,Discovery Green,University of Houston,3.256,764.6,791.336,Wednesday,3
+2026-10-28 03:20:17,6,Houston City College West Loop Campus,Levy Park,2.871,488.9,500.213,Wednesday,3
+2026-10-28 03:20:17,7,Houston City College West Loop Campus,Hermann Park,6.28,850.2,831.619,Wednesday,3
+2026-10-28 03:20:17,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,719.7,741.615,Wednesday,3
+2026-10-28 03:20:18,9,Memorial Park,Discovery Green,5.76,847.8,814.46,Wednesday,3
+2026-10-28 03:20:18,10,Rice University,Space Center Houston,28.13,2098.9,2180.302,Wednesday,3
+2026-10-28 03:20:18,11,Central Library,Houston Museum of Natural Science,4.832,641.2,621.394,Wednesday,3
+2026-10-28 03:20:18,12,University of Houston,NRG Arena,9.177,883.9,921.939,Wednesday,3
+2026-10-28 03:20:19,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1074.1,1090.035,Wednesday,3
+2026-10-28 03:20:19,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,892.0,899.491,Wednesday,3
+2026-10-28 03:20:19,15,Houston Sports Park,Discovery Green,9.762,792.9,796.407,Wednesday,3
