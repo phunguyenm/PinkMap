@@ -1559,3 +1559,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-28 15:58:58,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.816,1867.3,1873.562,Wednesday,15
 2026-10-28 15:58:58,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1528.7,1480.486,Wednesday,15
 2026-10-28 15:58:58,15,Houston Sports Park,Discovery Green,9.978,1507.5,1474.439,Wednesday,15
+2026-10-28 19:49:42,1,Houston City College,Houston City College West Loop Campus,7.005,719.9,675.985,Wednesday,19
+2026-10-28 19:49:43,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,839.8,808.518,Wednesday,19
+2026-10-28 19:49:43,3,Houston City College,Rice University,3.135,1051.4,1125.658,Wednesday,19
+2026-10-28 19:49:43,4,Discovery Green,Hermann Park,4.807,819.8,740.115,Wednesday,19
+2026-10-28 19:49:43,5,Discovery Green,University of Houston,3.44,824.2,847.613,Wednesday,19
+2026-10-28 19:49:43,6,Houston City College West Loop Campus,Levy Park,3.011,544.8,551.004,Wednesday,19
+2026-10-28 19:49:44,7,Houston City College West Loop Campus,Hermann Park,5.626,1150.2,1099.698,Wednesday,19
+2026-10-28 19:49:44,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,888.4,845.328,Wednesday,19
+2026-10-28 19:49:44,9,Memorial Park,Discovery Green,5.904,943.0,855.831,Wednesday,19
+2026-10-28 19:49:44,10,Rice University,Space Center Houston,28.13,2323.5,2330.058,Wednesday,19
+2026-10-28 19:49:45,11,Central Library,Houston Museum of Natural Science,4.832,843.9,760.242,Wednesday,19
+2026-10-28 19:49:45,12,University of Houston,NRG Arena,9.179,923.6,946.059,Wednesday,19
+2026-10-28 19:49:45,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1345.4,1253.934,Wednesday,19
+2026-10-28 19:49:45,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1036.8,967.845,Wednesday,19
+2026-10-28 19:49:45,15,Houston Sports Park,Discovery Green,9.762,979.2,892.704,Wednesday,19
