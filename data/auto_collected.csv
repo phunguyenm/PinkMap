@@ -1574,3 +1574,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-28 19:49:45,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1345.4,1253.934,Wednesday,19
 2026-10-28 19:49:45,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1036.8,967.845,Wednesday,19
 2026-10-28 19:49:45,15,Houston Sports Park,Discovery Green,9.762,979.2,892.704,Wednesday,19
+2026-10-29 01:59:08,1,Houston City College,Houston City College West Loop Campus,7.005,628.5,623.324,Thursday,1
+2026-10-29 01:59:08,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,772.1,748.528,Thursday,1
+2026-10-29 01:59:08,3,Houston City College,Rice University,3.135,960.5,1034.543,Thursday,1
+2026-10-29 01:59:08,4,Discovery Green,Hermann Park,4.807,804.4,737.528,Thursday,1
+2026-10-29 01:59:09,5,Discovery Green,University of Houston,3.454,823.1,791.829,Thursday,1
+2026-10-29 01:59:09,6,Houston City College West Loop Campus,Levy Park,2.871,470.7,494.123,Thursday,1
+2026-10-29 01:59:09,7,Houston City College West Loop Campus,Hermann Park,6.28,851.1,833.777,Thursday,1
+2026-10-29 01:59:10,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,771.5,756.964,Thursday,1
+2026-10-29 01:59:10,9,Memorial Park,Discovery Green,5.904,841.6,827.437,Thursday,1
+2026-10-29 01:59:10,10,Rice University,Space Center Houston,28.13,2147.3,2212.375,Thursday,1
+2026-10-29 01:59:10,11,Central Library,Houston Museum of Natural Science,4.832,641.9,634.037,Thursday,1
+2026-10-29 01:59:11,12,University of Houston,NRG Arena,9.177,908.3,926.303,Thursday,1
+2026-10-29 01:59:11,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1093.8,1118.306,Thursday,1
+2026-10-29 01:59:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,904.6,904.256,Thursday,1
+2026-10-29 01:59:11,15,Houston Sports Park,Discovery Green,9.762,811.4,828.704,Thursday,1
