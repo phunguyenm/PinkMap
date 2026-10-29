@@ -1589,3 +1589,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-29 01:59:11,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1093.8,1118.306,Thursday,1
 2026-10-29 01:59:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,904.6,904.256,Thursday,1
 2026-10-29 01:59:11,15,Houston Sports Park,Discovery Green,9.762,811.4,828.704,Thursday,1
+2026-10-29 09:10:10,1,Houston City College,Houston City College West Loop Campus,6.136,817.3,727.961,Thursday,9
+2026-10-29 09:10:11,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,807.3,874.94,Thursday,9
+2026-10-29 09:10:11,3,Houston City College,Rice University,3.135,1041.7,1087.755,Thursday,9
+2026-10-29 09:10:11,4,Discovery Green,Hermann Park,4.807,858.1,887.784,Thursday,9
+2026-10-29 09:10:11,5,Discovery Green,University of Houston,3.308,840.3,871.585,Thursday,9
+2026-10-29 09:10:11,6,Houston City College West Loop Campus,Levy Park,2.871,547.4,572.086,Thursday,9
+2026-10-29 09:10:12,7,Houston City College West Loop Campus,Hermann Park,6.28,973.8,906.468,Thursday,9
+2026-10-29 09:10:12,8,Houston City College Northeast - Northline Campus,Discovery Green,8.533,1140.0,1107.128,Thursday,9
+2026-10-29 09:10:12,9,Memorial Park,Discovery Green,5.904,995.4,867.971,Thursday,9
+2026-10-29 09:10:12,10,Rice University,Space Center Houston,28.129,2344.4,2373.133,Thursday,9
+2026-10-29 09:10:13,11,Central Library,Houston Museum of Natural Science,3.57,866.4,926.705,Thursday,9
+2026-10-29 09:10:13,12,University of Houston,NRG Arena,9.179,1003.1,1031.441,Thursday,9
+2026-10-29 09:10:13,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1722.5,1528.203,Thursday,9
+2026-10-29 09:10:14,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1059.6,1019.823,Thursday,9
+2026-10-29 09:10:14,15,Houston Sports Park,Discovery Green,9.762,1060.9,965.404,Thursday,9
