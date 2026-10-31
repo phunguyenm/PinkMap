@@ -1724,3 +1724,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-31 07:14:26,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1115.9,1084.623,Saturday,7
 2026-10-31 07:14:26,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,920.8,868.27,Saturday,7
 2026-10-31 07:14:26,15,Houston Sports Park,Discovery Green,9.762,864.0,817.076,Saturday,7
+2026-10-31 12:40:06,1,Houston City College,Houston City College West Loop Campus,6.136,745.9,674.786,Saturday,12
+2026-10-31 12:40:06,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,901.4,851.632,Saturday,12
+2026-10-31 12:40:07,3,Houston City College,Rice University,3.135,1123.4,1105.575,Saturday,12
+2026-10-31 12:40:07,4,Discovery Green,Hermann Park,4.807,866.9,781.472,Saturday,12
+2026-10-31 12:40:07,5,Discovery Green,University of Houston,3.454,735.5,772.275,Saturday,12
+2026-10-31 12:40:07,6,Houston City College West Loop Campus,Levy Park,2.871,544.1,550.981,Saturday,12
+2026-10-31 12:40:07,7,Houston City College West Loop Campus,Hermann Park,6.28,950.2,965.186,Saturday,12
+2026-10-31 12:40:08,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,918.6,897.277,Saturday,12
+2026-10-31 12:40:08,9,Memorial Park,Discovery Green,5.904,871.6,826.516,Saturday,12
+2026-10-31 12:40:08,10,Rice University,Space Center Houston,28.129,2407.3,2462.974,Saturday,12
+2026-10-31 12:40:08,11,Central Library,Houston Museum of Natural Science,3.547,877.4,830.01,Saturday,12
+2026-10-31 12:40:09,12,University of Houston,NRG Arena,9.179,935.8,959.827,Saturday,12
+2026-10-31 12:40:09,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1450.8,1350.054,Saturday,12
+2026-10-31 12:40:09,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1204.9,1050.862,Saturday,12
+2026-10-31 12:40:09,15,Houston Sports Park,Discovery Green,9.762,918.5,926.666,Saturday,12
