@@ -1754,3 +1754,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-10-31 16:26:30,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1410.2,1326.898,Saturday,16
 2026-10-31 16:26:30,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1146.3,1060.375,Saturday,16
 2026-10-31 16:26:30,15,Houston Sports Park,Discovery Green,9.762,1026.9,945.242,Saturday,16
+2026-10-31 20:01:51,1,Houston City College,Houston City College West Loop Campus,7.005,705.8,650.938,Saturday,20
+2026-10-31 20:01:52,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,772.1,802.972,Saturday,20
+2026-10-31 20:01:52,3,Houston City College,Rice University,3.135,970.4,1006.06,Saturday,20
+2026-10-31 20:01:52,4,Discovery Green,Hermann Park,4.807,858.2,759.615,Saturday,20
+2026-10-31 20:01:52,5,Discovery Green,University of Houston,3.256,870.7,892.368,Saturday,20
+2026-10-31 20:01:53,6,Houston City College West Loop Campus,Levy Park,2.871,507.1,514.522,Saturday,20
+2026-10-31 20:01:53,7,Houston City College West Loop Campus,Hermann Park,5.626,1107.6,1116.486,Saturday,20
+2026-10-31 20:01:53,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,926.9,861.372,Saturday,20
+2026-10-31 20:01:53,9,Memorial Park,Discovery Green,5.76,858.7,826.42,Saturday,20
+2026-10-31 20:01:54,10,Rice University,Space Center Houston,28.13,2253.6,2307.718,Saturday,20
+2026-10-31 20:01:54,11,Central Library,Houston Museum of Natural Science,3.692,880.8,858.008,Saturday,20
+2026-10-31 20:01:54,12,University of Houston,NRG Arena,9.179,1152.3,910.605,Saturday,20
+2026-10-31 20:01:54,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1389.3,1237.926,Saturday,20
+2026-10-31 20:01:55,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,908.5,951.393,Saturday,20
+2026-10-31 20:01:55,15,Houston Sports Park,Discovery Green,9.762,941.1,891.57,Saturday,20
