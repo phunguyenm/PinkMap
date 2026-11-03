@@ -1904,3 +1904,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-03 09:00:33,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1871.3,1567.104,Tuesday,9
 2026-11-03 09:00:33,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1107.3,1039.843,Tuesday,9
 2026-11-03 09:00:33,15,Houston Sports Park,Discovery Green,9.762,1038.5,977.661,Tuesday,9
+2026-11-03 14:56:00,1,Houston City College,Houston City College West Loop Campus,6.136,828.3,767.831,Tuesday,14
+2026-11-03 14:56:01,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1270.2,1132.871,Tuesday,14
+2026-11-03 14:56:01,3,Houston City College,Rice University,3.135,1110.6,1168.318,Tuesday,14
+2026-11-03 14:56:01,4,Discovery Green,Hermann Park,4.807,816.3,796.628,Tuesday,14
+2026-11-03 14:56:01,5,Discovery Green,University of Houston,3.454,817.4,798.921,Tuesday,14
+2026-11-03 14:56:02,6,Houston City College West Loop Campus,Levy Park,2.871,575.7,544.29,Tuesday,14
+2026-11-03 14:56:02,7,Houston City College West Loop Campus,Hermann Park,5.769,1221.4,1174.911,Tuesday,14
+2026-11-03 14:56:02,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,977.1,929.388,Tuesday,14
+2026-11-03 14:56:03,9,Memorial Park,Discovery Green,5.904,902.0,838.527,Tuesday,14
+2026-11-03 14:56:03,10,Rice University,Space Center Houston,31.402,2635.3,2597.732,Tuesday,14
+2026-11-03 14:56:03,11,Central Library,Houston Museum of Natural Science,3.692,929.3,898.495,Tuesday,14
+2026-11-03 14:56:03,12,University of Houston,NRG Arena,7.591,1222.7,1180.395,Tuesday,14
+2026-11-03 14:56:04,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1644.9,1691.91,Tuesday,14
+2026-11-03 14:56:04,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,12.087,1448.6,1411.951,Tuesday,14
+2026-11-03 14:56:04,15,Houston Sports Park,Discovery Green,9.762,1400.7,1278.766,Tuesday,14
