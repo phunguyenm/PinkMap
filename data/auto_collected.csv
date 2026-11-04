@@ -1919,3 +1919,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-03 14:56:04,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1644.9,1691.91,Tuesday,14
 2026-11-03 14:56:04,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,12.087,1448.6,1411.951,Tuesday,14
 2026-11-03 14:56:04,15,Houston Sports Park,Discovery Green,9.762,1400.7,1278.766,Tuesday,14
+2026-11-03 19:16:28,1,Houston City College,Houston City College West Loop Campus,7.005,756.5,684.35,Tuesday,19
+2026-11-03 19:16:28,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,999.2,851.127,Tuesday,19
+2026-11-03 19:16:29,3,Houston City College,Rice University,3.135,1094.3,1123.243,Tuesday,19
+2026-11-03 19:16:29,4,Discovery Green,Hermann Park,4.807,840.7,750.276,Tuesday,19
+2026-11-03 19:16:29,5,Discovery Green,University of Houston,3.454,783.7,769.167,Tuesday,19
+2026-11-03 19:16:29,6,Houston City College West Loop Campus,Levy Park,3.011,560.6,566.403,Tuesday,19
+2026-11-03 19:16:29,7,Houston City College West Loop Campus,Hermann Park,6.28,938.9,914.625,Tuesday,19
+2026-11-03 19:16:30,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,952.7,879.76,Tuesday,19
+2026-11-03 19:16:30,9,Memorial Park,Discovery Green,5.904,939.9,859.692,Tuesday,19
+2026-11-03 19:16:30,10,Rice University,Space Center Houston,31.402,2263.4,2421.278,Tuesday,19
+2026-11-03 19:16:30,11,Central Library,Houston Museum of Natural Science,3.692,845.1,852.417,Tuesday,19
+2026-11-03 19:16:30,12,University of Houston,NRG Arena,9.179,931.6,958.872,Tuesday,19
+2026-11-03 19:16:31,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.149,1432.7,1314.87,Tuesday,19
+2026-11-03 19:16:31,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,12.087,1189.9,1141.76,Tuesday,19
+2026-11-03 19:16:31,15,Houston Sports Park,Discovery Green,9.762,1000.2,942.849,Tuesday,19
