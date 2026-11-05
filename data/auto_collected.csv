@@ -1979,3 +1979,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-04 17:35:14,13,Houston City College Northwest - Spring Branch Campus,Houston City College,14.658,2345.9,1994.086,Wednesday,17
 2026-11-04 17:35:14,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1921.9,1431.367,Wednesday,17
 2026-11-04 17:35:14,15,Houston Sports Park,Discovery Green,9.978,1657.0,1335.063,Wednesday,17
+2026-11-05 00:33:26,1,Houston City College,Houston City College West Loop Campus,7.005,616.6,614.109,Thursday,0
+2026-11-05 00:33:26,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,782.5,754.816,Thursday,0
+2026-11-05 00:33:27,3,Houston City College,Rice University,3.135,908.4,968.76,Thursday,0
+2026-11-05 00:33:27,4,Discovery Green,Hermann Park,4.807,711.7,700.491,Thursday,0
+2026-11-05 00:33:27,5,Discovery Green,University of Houston,3.454,655.0,751.324,Thursday,0
+2026-11-05 00:33:27,6,Houston City College West Loop Campus,Levy Park,2.798,500.0,526.837,Thursday,0
+2026-11-05 00:33:27,7,Houston City College West Loop Campus,Hermann Park,6.28,822.2,824.638,Thursday,0
+2026-11-05 00:33:28,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,768.2,765.388,Thursday,0
+2026-11-05 00:33:28,9,Memorial Park,Discovery Green,5.76,851.3,837.777,Thursday,0
+2026-11-05 00:33:28,10,Rice University,Space Center Houston,28.13,2173.3,2230.205,Thursday,0
+2026-11-05 00:33:28,11,Central Library,Houston Museum of Natural Science,4.832,632.5,639.264,Thursday,0
+2026-11-05 00:33:28,12,University of Houston,NRG Arena,9.177,968.1,945.816,Thursday,0
+2026-11-05 00:33:29,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1085.3,1097.34,Thursday,0
+2026-11-05 00:33:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,876.3,876.787,Thursday,0
+2026-11-05 00:33:29,15,Houston Sports Park,Discovery Green,9.762,855.0,848.756,Thursday,0
