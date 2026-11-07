@@ -2114,3 +2114,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-07 03:56:39,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1069.6,1108.325,Saturday,3
 2026-11-07 03:56:39,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,900.1,910.346,Saturday,3
 2026-11-07 03:56:39,15,Houston Sports Park,Discovery Green,9.762,815.3,809.385,Saturday,3
+2026-11-07 10:21:24,1,Houston City College,Houston City College West Loop Campus,6.136,696.7,641.697,Saturday,10
+2026-11-07 10:21:24,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,818.2,768.872,Saturday,10
+2026-11-07 10:21:25,3,Houston City College,Rice University,3.135,987.5,1018.61,Saturday,10
+2026-11-07 10:21:25,4,Discovery Green,Hermann Park,4.807,856.1,753.942,Saturday,10
+2026-11-07 10:21:25,5,Discovery Green,University of Houston,3.454,672.1,825.719,Saturday,10
+2026-11-07 10:21:25,6,Houston City College West Loop Campus,Levy Park,3.011,548.1,562.286,Saturday,10
+2026-11-07 10:21:25,7,Houston City College West Loop Campus,Hermann Park,5.626,1180.6,1112.116,Saturday,10
+2026-11-07 10:21:25,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,906.6,809.616,Saturday,10
+2026-11-07 10:21:26,9,Memorial Park,Discovery Green,5.904,984.1,804.119,Saturday,10
+2026-11-07 10:21:26,10,Rice University,Space Center Houston,28.129,2240.7,2248.525,Saturday,10
+2026-11-07 10:21:26,11,Central Library,Houston Museum of Natural Science,3.645,727.0,831.844,Saturday,10
+2026-11-07 10:21:26,12,University of Houston,NRG Arena,9.179,926.2,965.369,Saturday,10
+2026-11-07 10:21:26,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1427.1,1231.187,Saturday,10
+2026-11-07 10:21:26,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1039.5,931.082,Saturday,10
+2026-11-07 10:21:27,15,Houston Sports Park,Discovery Green,9.762,955.0,864.856,Saturday,10
