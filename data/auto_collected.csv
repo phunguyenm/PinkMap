@@ -2309,3 +2309,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-10 11:43:00,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1492.7,1424.8,Tuesday,11
 2026-11-10 11:43:00,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1060.1,1053.933,Tuesday,11
 2026-11-10 11:43:00,15,Houston Sports Park,Discovery Green,9.762,948.0,947.216,Tuesday,11
+2026-11-10 17:11:53,1,Houston City College,Houston City College West Loop Campus,6.136,1299.9,905.954,Tuesday,17
+2026-11-10 17:11:53,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1635.6,1358.65,Tuesday,17
+2026-11-10 17:11:53,3,Houston City College,Rice University,3.135,973.1,1035.461,Tuesday,17
+2026-11-10 17:11:54,4,Discovery Green,Hermann Park,4.807,1092.8,915.424,Tuesday,17
+2026-11-10 17:11:54,5,Discovery Green,University of Houston,3.454,876.1,917.382,Tuesday,17
+2026-11-10 17:11:54,6,Houston City College West Loop Campus,Levy Park,2.871,669.8,636.937,Tuesday,17
+2026-11-10 17:11:55,7,Houston City College West Loop Campus,Hermann Park,5.626,1429.6,1313.39,Tuesday,17
+2026-11-10 17:11:55,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1182.8,1108.368,Tuesday,17
+2026-11-10 17:11:55,9,Memorial Park,Discovery Green,5.76,1212.6,1016.604,Tuesday,17
+2026-11-10 17:11:55,10,Rice University,Space Center Houston,31.402,3343.1,2704.504,Tuesday,17
+2026-11-10 17:11:56,11,Central Library,Houston Museum of Natural Science,3.547,1018.6,995.059,Tuesday,17
+2026-11-10 17:11:56,12,University of Houston,NRG Arena,7.173,1351.1,1302.93,Tuesday,17
+2026-11-10 17:11:56,13,Houston City College Northwest - Spring Branch Campus,Houston City College,13.957,2964.8,2120.334,Tuesday,17
+2026-11-10 17:11:56,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,2285.8,1508.768,Tuesday,17
+2026-11-10 17:11:57,15,Houston Sports Park,Discovery Green,10.159,2192.8,1555.902,Tuesday,17
