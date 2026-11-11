@@ -2339,3 +2339,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-10 23:59:17,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1141.9,1110.223,Tuesday,23
 2026-11-10 23:59:17,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,894.3,886.546,Tuesday,23
 2026-11-10 23:59:17,15,Houston Sports Park,Discovery Green,9.762,850.5,829.911,Tuesday,23
+2026-11-11 08:05:54,1,Houston City College,Houston City College West Loop Campus,6.136,881.8,777.624,Wednesday,8
+2026-11-11 08:05:55,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,862.6,871.06,Wednesday,8
+2026-11-11 08:05:55,3,Houston City College,Rice University,3.135,948.9,1019.061,Wednesday,8
+2026-11-11 08:05:55,4,Discovery Green,Hermann Park,4.807,944.1,969.847,Wednesday,8
+2026-11-11 08:05:55,5,Discovery Green,University of Houston,3.454,781.3,887.783,Wednesday,8
+2026-11-11 08:05:56,6,Houston City College West Loop Campus,Levy Park,2.871,566.3,593.415,Wednesday,8
+2026-11-11 08:05:56,7,Houston City College West Loop Campus,Hermann Park,6.28,982.8,964.029,Wednesday,8
+2026-11-11 08:05:56,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1398.0,1292.504,Wednesday,8
+2026-11-11 08:05:56,9,Memorial Park,Discovery Green,5.904,1032.0,931.498,Wednesday,8
+2026-11-11 08:05:56,10,Rice University,Space Center Houston,28.129,2401.3,2421.724,Wednesday,8
+2026-11-11 08:05:57,11,Central Library,Houston Museum of Natural Science,3.561,861.9,921.124,Wednesday,8
+2026-11-11 08:05:57,12,University of Houston,NRG Arena,9.179,1203.0,1125.787,Wednesday,8
+2026-11-11 08:05:57,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2076.5,1765.912,Wednesday,8
+2026-11-11 08:05:57,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1298.9,1158.154,Wednesday,8
+2026-11-11 08:05:58,15,Houston Sports Park,Discovery Green,9.762,1164.7,1130.3,Wednesday,8
