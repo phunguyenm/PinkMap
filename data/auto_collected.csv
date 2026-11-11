@@ -2354,3 +2354,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-11 08:05:57,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2076.5,1765.912,Wednesday,8
 2026-11-11 08:05:57,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1298.9,1158.154,Wednesday,8
 2026-11-11 08:05:58,15,Houston Sports Park,Discovery Green,9.762,1164.7,1130.3,Wednesday,8
+2026-11-11 15:21:35,1,Houston City College,Houston City College West Loop Campus,6.136,929.3,830.832,Wednesday,15
+2026-11-11 15:21:35,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1304.6,1176.25,Wednesday,15
+2026-11-11 15:21:36,3,Houston City College,Rice University,3.135,1049.5,1063.66,Wednesday,15
+2026-11-11 15:21:36,4,Discovery Green,Hermann Park,4.807,882.3,818.967,Wednesday,15
+2026-11-11 15:21:36,5,Discovery Green,University of Houston,3.454,860.6,838.224,Wednesday,15
+2026-11-11 15:21:36,6,Houston City College West Loop Campus,Levy Park,2.871,611.1,577.088,Wednesday,15
+2026-11-11 15:21:36,7,Houston City College West Loop Campus,Hermann Park,6.28,1352.7,1209.964,Wednesday,15
+2026-11-11 15:21:36,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1018.0,963.623,Wednesday,15
+2026-11-11 15:21:36,9,Memorial Park,Discovery Green,5.904,939.0,885.824,Wednesday,15
+2026-11-11 15:21:37,10,Rice University,Space Center Houston,31.402,2485.1,2586.561,Wednesday,15
+2026-11-11 15:21:37,11,Central Library,Houston Museum of Natural Science,4.829,950.6,894.894,Wednesday,15
+2026-11-11 15:21:37,12,University of Houston,NRG Arena,9.179,1129.2,1119.388,Wednesday,15
+2026-11-11 15:21:37,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2045.8,1832.73,Wednesday,15
+2026-11-11 15:21:37,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1404.5,1418.757,Wednesday,15
+2026-11-11 15:21:37,15,Houston Sports Park,Discovery Green,9.978,1479.2,1349.217,Wednesday,15
