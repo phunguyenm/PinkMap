@@ -2399,3 +2399,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-12 04:56:11,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1066.7,1075.116,Thursday,4
 2026-11-12 04:56:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,876.1,885.582,Thursday,4
 2026-11-12 04:56:11,15,Houston Sports Park,Discovery Green,9.762,778.6,790.515,Thursday,4
+2026-11-12 12:50:26,1,Houston City College,Houston City College West Loop Campus,6.136,733.7,711.039,Thursday,12
+2026-11-12 12:50:26,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,989.6,895.95,Thursday,12
+2026-11-12 12:50:27,3,Houston City College,Rice University,3.135,1020.3,1095.409,Thursday,12
+2026-11-12 12:50:27,4,Discovery Green,Hermann Park,4.807,803.3,772.123,Thursday,12
+2026-11-12 12:50:27,5,Discovery Green,University of Houston,3.454,888.8,834.748,Thursday,12
+2026-11-12 12:50:27,6,Houston City College West Loop Campus,Levy Park,3.011,605.8,584.494,Thursday,12
+2026-11-12 12:50:27,7,Houston City College West Loop Campus,Hermann Park,6.28,1098.2,962.147,Thursday,12
+2026-11-12 12:50:28,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,929.5,881.896,Thursday,12
+2026-11-12 12:50:28,9,Memorial Park,Discovery Green,5.904,951.9,834.996,Thursday,12
+2026-11-12 12:50:28,10,Rice University,Space Center Houston,31.402,2401.7,2472.775,Thursday,12
+2026-11-12 12:50:28,11,Central Library,Houston Museum of Natural Science,3.692,884.7,892.678,Thursday,12
+2026-11-12 12:50:28,12,University of Houston,NRG Arena,9.179,994.8,986.15,Thursday,12
+2026-11-12 12:50:29,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.675,1622.9,1475.542,Thursday,12
+2026-11-12 12:50:29,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1177.8,1114.523,Thursday,12
+2026-11-12 12:50:29,15,Houston Sports Park,Discovery Green,9.978,1113.9,1062.396,Thursday,12
