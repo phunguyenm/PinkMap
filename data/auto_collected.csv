@@ -2369,3 +2369,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-11 15:21:37,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,2045.8,1832.73,Wednesday,15
 2026-11-11 15:21:37,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1404.5,1418.757,Wednesday,15
 2026-11-11 15:21:37,15,Houston Sports Park,Discovery Green,9.978,1479.2,1349.217,Wednesday,15
+2026-11-11 20:53:10,1,Houston City College,Houston City College West Loop Campus,5.991,688.5,680.232,Wednesday,20
+2026-11-11 20:53:10,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,786.8,776.89,Wednesday,20
+2026-11-11 20:53:11,3,Houston City College,Rice University,3.135,887.6,993.332,Wednesday,20
+2026-11-11 20:53:11,4,Discovery Green,Hermann Park,4.807,812.6,764.629,Wednesday,20
+2026-11-11 20:53:12,5,Discovery Green,University of Houston,3.454,790.8,794.688,Wednesday,20
+2026-11-11 20:53:12,6,Houston City College West Loop Campus,Levy Park,2.871,520.7,523.401,Wednesday,20
+2026-11-11 20:53:12,7,Houston City College West Loop Campus,Hermann Park,6.28,882.8,882.577,Wednesday,20
+2026-11-11 20:53:12,8,Houston City College Northeast - Northline Campus,Discovery Green,6.761,860.8,869.103,Wednesday,20
+2026-11-11 20:53:13,9,Memorial Park,Discovery Green,5.904,911.8,853.973,Wednesday,20
+2026-11-11 20:53:13,10,Rice University,Space Center Houston,28.13,2167.3,2250.33,Wednesday,20
+2026-11-11 20:53:14,11,Central Library,Houston Museum of Natural Science,4.832,691.0,699.94,Wednesday,20
+2026-11-11 20:53:14,12,University of Houston,NRG Arena,9.179,943.3,952.198,Wednesday,20
+2026-11-11 20:53:14,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1170.2,1185.575,Wednesday,20
+2026-11-11 20:53:14,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,958.1,932.524,Wednesday,20
+2026-11-11 20:53:14,15,Houston Sports Park,Discovery Green,9.762,910.9,878.672,Wednesday,20
