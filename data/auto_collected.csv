@@ -2384,3 +2384,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-11 20:53:14,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1170.2,1185.575,Wednesday,20
 2026-11-11 20:53:14,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,958.1,932.524,Wednesday,20
 2026-11-11 20:53:14,15,Houston Sports Park,Discovery Green,9.762,910.9,878.672,Wednesday,20
+2026-11-12 04:56:07,1,Houston City College,Houston City College West Loop Campus,5.991,584.9,592.4,Thursday,4
+2026-11-12 04:56:08,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,753.0,738.211,Thursday,4
+2026-11-12 04:56:08,3,Houston City College,Rice University,3.135,926.6,1023.911,Thursday,4
+2026-11-12 04:56:08,4,Discovery Green,Hermann Park,4.807,729.8,743.243,Thursday,4
+2026-11-12 04:56:09,5,Discovery Green,University of Houston,3.256,740.0,781.203,Thursday,4
+2026-11-12 04:56:09,6,Houston City College West Loop Campus,Levy Park,2.871,497.6,476.727,Thursday,4
+2026-11-12 04:56:09,7,Houston City College West Loop Campus,Hermann Park,6.28,855.0,838.569,Thursday,4
+2026-11-12 04:56:09,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,748.1,740.474,Thursday,4
+2026-11-12 04:56:10,9,Memorial Park,Discovery Green,5.904,765.8,815.651,Thursday,4
+2026-11-12 04:56:10,10,Rice University,Space Center Houston,28.13,2296.5,2168.145,Thursday,4
+2026-11-12 04:56:10,11,Central Library,Houston Museum of Natural Science,4.832,627.8,632.018,Thursday,4
+2026-11-12 04:56:10,12,University of Houston,NRG Arena,9.177,875.9,902.443,Thursday,4
+2026-11-12 04:56:11,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1066.7,1075.116,Thursday,4
+2026-11-12 04:56:11,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,876.1,885.582,Thursday,4
+2026-11-12 04:56:11,15,Houston Sports Park,Discovery Green,9.762,778.6,790.515,Thursday,4
