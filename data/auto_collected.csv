@@ -2459,3 +2459,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-13 10:11:42,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1671.2,1365.658,Friday,10
 2026-11-13 10:11:42,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1074.1,996.113,Friday,10
 2026-11-13 10:11:42,15,Houston Sports Park,Discovery Green,9.762,1142.4,913.771,Friday,10
+2026-11-13 16:31:53,1,Houston City College,Houston City College West Loop Campus,6.136,1095.0,935.236,Friday,16
+2026-11-13 16:31:53,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,1513.7,1346.742,Friday,16
+2026-11-13 16:31:53,3,Houston City College,Rice University,3.135,1126.7,1073.636,Friday,16
+2026-11-13 16:31:54,4,Discovery Green,Hermann Park,4.807,936.2,927.688,Friday,16
+2026-11-13 16:31:54,5,Discovery Green,University of Houston,3.454,820.2,914.155,Friday,16
+2026-11-13 16:31:54,6,Houston City College West Loop Campus,Levy Park,3.011,738.2,668.911,Friday,16
+2026-11-13 16:31:54,7,Houston City College West Loop Campus,Hermann Park,5.626,1507.8,1352.425,Friday,16
+2026-11-13 16:31:55,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,1132.6,1104.445,Friday,16
+2026-11-13 16:31:55,9,Memorial Park,Discovery Green,5.904,1176.9,967.458,Friday,16
+2026-11-13 16:31:55,10,Rice University,Space Center Houston,31.402,2748.5,2734.71,Friday,16
+2026-11-13 16:31:55,11,Central Library,Houston Museum of Natural Science,3.547,1001.4,994.343,Friday,16
+2026-11-13 16:31:56,12,University of Houston,NRG Arena,6.292,1133.2,1195.074,Friday,16
+2026-11-13 16:31:56,13,Houston City College Northwest - Spring Branch Campus,Houston City College,13.957,2415.5,2030.552,Friday,16
+2026-11-13 16:31:56,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.258,1686.9,1517.712,Friday,16
+2026-11-13 16:31:56,15,Houston Sports Park,Discovery Green,10.159,2039.1,1537.962,Friday,16
