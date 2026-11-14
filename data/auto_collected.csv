@@ -2504,3 +2504,18 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-14 04:15:00,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1069.5,1094.42,Saturday,4
 2026-11-14 04:15:00,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,871.9,906.891,Saturday,4
 2026-11-14 04:15:00,15,Houston Sports Park,Discovery Green,9.762,776.7,809.475,Saturday,4
+2026-11-14 10:59:35,1,Houston City College,Houston City College West Loop Campus,6.136,681.7,653.397,Saturday,10
+2026-11-14 10:59:35,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,854.8,770.566,Saturday,10
+2026-11-14 10:59:35,3,Houston City College,Rice University,3.135,972.6,1021.287,Saturday,10
+2026-11-14 10:59:35,4,Discovery Green,Hermann Park,4.807,811.8,770.753,Saturday,10
+2026-11-14 10:59:35,5,Discovery Green,University of Houston,3.308,789.6,830.892,Saturday,10
+2026-11-14 10:59:35,6,Houston City College West Loop Campus,Levy Park,2.871,520.5,521.175,Saturday,10
+2026-11-14 10:59:36,7,Houston City College West Loop Campus,Hermann Park,6.28,1074.3,915.86,Saturday,10
+2026-11-14 10:59:36,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,882.3,845.803,Saturday,10
+2026-11-14 10:59:36,9,Memorial Park,Discovery Green,5.904,876.6,803.958,Saturday,10
+2026-11-14 10:59:36,10,Rice University,Space Center Houston,28.129,2511.9,2278.488,Saturday,10
+2026-11-14 10:59:36,11,Central Library,Houston Museum of Natural Science,4.829,924.1,754.188,Saturday,10
+2026-11-14 10:59:36,12,University of Houston,NRG Arena,9.179,997.8,970.194,Saturday,10
+2026-11-14 10:59:37,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1375.4,1253.346,Saturday,10
+2026-11-14 10:59:37,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1051.6,953.322,Saturday,10
+2026-11-14 10:59:37,15,Houston Sports Park,Discovery Green,9.762,882.4,867.743,Saturday,10
