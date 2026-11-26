@@ -4194,3 +4194,53 @@ collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_
 2026-11-26 09:01:45,48,Buffalo Bayou Park,Houston Farmers Market,3.953,686.9,795.646,Thursday,9
 2026-11-26 09:01:45,49,Houston City College West Loop Campus,Alief Community Park,10.061,1016.6,1079.245,Thursday,9
 2026-11-26 09:01:45,50,Houston Museum of Natural Science,Houston City Hall,4.665,612.2,718.007,Thursday,9
+2026-11-26 17:46:29,1,Houston City College,Houston City College West Loop Campus,6.136,742.4,821.199,Thursday,17
+2026-11-26 17:46:29,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,828.2,1199.636,Thursday,17
+2026-11-26 17:46:30,3,Houston City College,Rice University,3.135,986.4,1041.055,Thursday,17
+2026-11-26 17:46:30,4,Discovery Green,Hermann Park,4.807,735.4,916.152,Thursday,17
+2026-11-26 17:46:30,5,Discovery Green,University of Houston,3.454,814.3,897.66,Thursday,17
+2026-11-26 17:46:30,6,Houston City College West Loop Campus,Levy Park,2.871,575.0,621.206,Thursday,17
+2026-11-26 17:46:30,7,Houston City College West Loop Campus,Hermann Park,6.28,910.4,1314.704,Thursday,17
+2026-11-26 17:46:30,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,856.1,1065.786,Thursday,17
+2026-11-26 17:46:30,9,Memorial Park,Discovery Green,5.76,865.1,1014.612,Thursday,17
+2026-11-26 17:46:31,10,Rice University,Space Center Houston,28.129,2241.1,2803.067,Thursday,17
+2026-11-26 17:46:31,11,Central Library,Houston Museum of Natural Science,4.829,887.4,934.318,Thursday,17
+2026-11-26 17:46:31,12,University of Houston,NRG Arena,9.179,933.2,1120.877,Thursday,17
+2026-11-26 17:46:31,13,Houston City College Northwest - Spring Branch Campus,Houston City College,16.021,1207.9,1991.579,Thursday,17
+2026-11-26 17:46:31,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,985.0,1413.097,Thursday,17
+2026-11-26 17:46:31,15,Houston Sports Park,Discovery Green,9.762,907.1,1292.992,Thursday,17
+2026-11-26 17:46:32,16,Emancipation Park,Memorial Park,9.754,1106.5,1539.252,Thursday,17
+2026-11-26 17:46:32,17,POST Houston,Rice University,6.645,1807.2,1850.103,Thursday,17
+2026-11-26 17:46:32,18,Menil Collection,University of Houston,5.471,905.1,1288.405,Thursday,17
+2026-11-26 17:46:32,19,Children's Museum of Houston,Discovery Green,3.74,690.2,1014.07,Thursday,17
+2026-11-26 17:46:32,20,Holocaust Museum Houston,Houston City College West Loop Campus,6.12,944.3,990.053,Thursday,17
+2026-11-26 17:46:32,21,The University of Texas Health Science Center,NRG Arena,1.697,443.6,435.135,Thursday,17
+2026-11-26 17:46:32,22,University of Houston - Clear Lake,Space Center Houston,4.448,618.7,686.112,Thursday,17
+2026-11-26 17:46:32,23,San Jacinto College South Campus,University of Houston - Clear Lake,9.346,1464.0,1514.599,Thursday,17
+2026-11-26 17:46:33,24,Eleanor Tinsley Park,Houston Sports Park,11.601,1371.1,1731.731,Thursday,17
+2026-11-26 17:46:33,25,Spotts Park,Houston City College,2.481,646.6,708.692,Thursday,17
+2026-11-26 17:46:33,26,Lamar Park,Houston Museum of Natural Science,2.245,554.3,586.308,Thursday,17
+2026-11-26 17:46:33,27,MacGregor Park,Central Library,8.973,1005.3,1320.954,Thursday,17
+2026-11-26 17:46:33,28,Herman Brown Park,Discovery Green,7.797,700.9,805.472,Thursday,17
+2026-11-26 17:46:33,29,Buffalo Bayou Park,Houston City College Northwest - Spring Branch Campus,11.929,933.1,1199.847,Thursday,17
+2026-11-26 17:46:33,30,Houston City Hall,Hermann Park,6.05,832.7,981.907,Thursday,17
+2026-11-26 17:46:34,31,Houston Farmers Market,Discovery Green,6.46,705.1,883.036,Thursday,17
+2026-11-26 17:46:34,32,Heights Neighborhood Library,Rice University,9.812,1784.2,2406.091,Thursday,17
+2026-11-26 17:46:34,33,Bayou Bend Collection and Gardens,Hermann Park,7.693,1178.1,1769.173,Thursday,17
+2026-11-26 17:46:34,34,Houston Arboretum Park,Houston City College West Loop Campus,4.424,621.1,809.199,Thursday,17
+2026-11-26 17:46:34,35,Gerald D. Hines Waterwall Park,Memorial Park,3.091,637.8,675.986,Thursday,17
+2026-11-26 17:46:34,36,McGovern Centennial Gardens,University of Houston,4.816,783.6,996.109,Thursday,17
+2026-11-26 17:46:34,37,Hermann Square,Rice University,6.135,1442.0,1616.628,Thursday,17
+2026-11-26 17:46:35,38,Market Square Park,NRG Arena,8.215,1058.3,1276.31,Thursday,17
+2026-11-26 17:46:35,39,Midtown Park,Levy Park,3.614,597.3,580.252,Thursday,17
+2026-11-26 17:46:35,40,Eastwood Park,Space Center Houston,23.526,1908.8,2196.899,Thursday,17
+2026-11-26 17:46:35,41,Mason Park,Discovery Green,5.146,1066.3,1129.11,Thursday,17
+2026-11-26 17:46:35,42,George Bush Park,Rice University,22.591,2309.3,2653.296,Thursday,17
+2026-11-26 17:46:35,43,Cullen Park,Houston City College West Loop Campus,20.494,1542.6,1931.108,Thursday,17
+2026-11-26 17:46:35,44,Bear Creek Pioneers Park,Discovery Green,22.968,2104.9,2756.431,Thursday,17
+2026-11-26 17:46:36,45,Kingwood Branch Library,Houston City Hall,28.105,2153.6,2522.651,Thursday,17
+2026-11-26 17:46:36,46,Jesse Jones Park,Memorial Park,27.977,2194.1,2788.058,Thursday,17
+2026-11-26 17:46:36,47,Fonde Park,Houston Sports Park,12.02,886.2,1252.828,Thursday,17
+2026-11-26 17:46:36,48,Buffalo Bayou Park,Houston Farmers Market,5.703,653.9,966.986,Thursday,17
+2026-11-26 17:46:36,49,Houston City College West Loop Campus,Alief Community Park,10.061,1184.8,1789.406,Thursday,17
+2026-11-26 17:46:36,50,Houston Museum of Natural Science,Houston City Hall,4.457,697.9,966.736,Thursday,17
